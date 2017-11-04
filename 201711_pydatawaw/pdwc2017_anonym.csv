@@ -1,0 +1,416 @@
+Attendee Status,Order Date,Check-In Date,Would you like a T-Shirt?,What size?,Job Title,Participant Type,Call Type,Country,City
+Checked In,2017-06-16 14:31:21.996,"October 19, 2017 10:35 AM",Yes,Unisex Medium,J.Data Scientist,Individual,Early Bird,Poland,Warsaw
+Attending,2017-06-16 15:39:10.002,,Yes,Unisex Medium,Manager,Individual,Early Bird,Poland,Wielkie Drogi
+Checked In,2017-06-19 09:45:10.999,"October 19, 2017 11:54 AM",Yes,Unisex Large,Data Scientist,Individual,Early Bird,Poland,Warsaw
+Checked In,2017-06-20 17:00:41.996,"October 19, 2017 10:01 AM",Yes,Unisex Small,None,Individual,Early Bird,Poland,Warsaw
+Attending,2017-06-20 23:09:45.003,,Yes,Unisex XL,solution architect,Individual,Early Bird,Poland,Warsaw
+Checked In,2017-06-22 09:15:20.998,"October 19, 2017 10:53 AM",Yes,Unisex Large,Software Developer,Individual,Early Bird,Germany,Juelich
+Checked In,2017-06-24 15:27:52.998,"October 19, 2017 11:57 AM",Yes,Unisex Medium,R&D Engineer,Individual,Early Bird,Poland,Krakow
+Attending,2017-06-30 11:41:54.004,,Yes,Unisex Medium,Student,Individual,Early Bird,Poland,Warsaw
+Attending,2017-07-04 15:34:40.002,,No,,Data Scientist,Individual,Early Bird,Poland,Krakow
+Checked In,2017-07-07 18:07:14.998,"October 19, 2017 10:00 AM",Yes,Unisex Small,Assistant Professor,Individual,Early Bird,Poland,Warsaw
+Checked In,2017-07-07 21:35:31.004,"October 20, 2017 9:19 AM",Yes,Unisex Medium,Software developer,Individual,Early Bird,Poland,Gliwice
+Checked In,2017-07-09 20:59:50.004,"October 19, 2017 9:58 AM",Yes,Unisex Large,Programmer,Individual,Early Bird,Poland,Warsaw
+Checked In,2017-07-10 07:37:33.004,"October 19, 2017 11:43 AM",Yes,Unisex Large,Software developer,Individual,Early Bird,Poland,Warsaw
+Checked In,2017-07-10 12:41:52.002,"October 19, 2017 11:41 AM",Yes,Unisex Large,Credit Risk Modeler,Individual,Early Bird,Poland,
+Checked In,2017-07-10 19:07:12.003,"October 19, 2017 2:50 PM",Yes,Unisex Large,Java Developer,Individual,Early Bird,Poland,Warsaw
+Checked In,2017-07-12 14:00:45.003,"October 19, 2017 9:52 AM",Yes,Unisex Large,research assistant,Corporate,Early Bird,Poland,Warsaw
+Checked In,2017-07-12 21:39:41.003,"October 19, 2017 10:10 AM",Yes,Unisex Medium,Senior Banking Analyst,Individual,Early Bird,Poland,Warsaw
+Checked In,2017-07-13 08:12:50.003,"October 19, 2017 11:38 AM",Yes,Unisex Large,Python developer,Individual,Early Bird,Poland,Chojnów
+Checked In,2017-07-13 11:58:33.997,"October 19, 2017 9:41 AM",Yes,Unisex Medium,Kierownik Węża,Individual,Early Bird,Poland,Warsaw
+Checked In,2017-07-13 12:00:58.000,"October 19, 2017 9:20 AM",Yes,Unisex Medium,PHP Developer,Individual,Early Bird,Poland,Warsaw
+Checked In,2017-07-13 12:55:15.004,"October 18, 2017 9:43 AM",No,,Trainee Quant Trader,Corporate,Early Bird,United Kingdom,London
+Checked In,2017-07-13 12:55:15.004,"October 18, 2017 9:44 AM",No,,Trainee Quant Trader,Corporate,Early Bird,United Kingdom,London
+Checked In,2017-07-13 13:12:24.002,"October 19, 2017 10:07 AM",Yes,Unisex XL,Founder,Individual,Early Bird,Poland,Warsaw
+Checked In,2017-07-13 14:06:39.001,"October 19, 2017 11:47 AM",Yes,Unisex Small,Data Scientist,Corporate,Early Bird,Poland,Krakow
+Checked In,2017-07-13 14:06:39.001,"October 19, 2017 11:47 AM",Yes,Unisex Large,Data Scientist,Corporate,Early Bird,Poland,Krakow
+Checked In,2017-07-13 14:06:39.001,"October 19, 2017 11:52 AM",Yes,Unisex Large,Head of User Intelligence,Corporate,Early Bird,Poland,Krakow
+Attending,2017-07-13 17:17:28.997,,Yes,Unisex Large,Software Developer,Individual,Early Bird,Poland,Warsaw
+Checked In,2017-07-13 21:00:44.997,"October 19, 2017 9:49 AM",Yes,Unisex Large,Senior Python Developer,Individual,Early Bird,Poland,Warsaw
+Attending,2017-07-14 09:23:21.002,,Yes,Unisex Large,Programmer,Individual,Early Bird,Poland,Rybnik
+Checked In,2017-07-14 10:06:36.000,"October 19, 2017 12:32 PM",Yes,Unisex XL,Data Scientist,Individual,Early Bird,Romania,Sibiu
+Checked In,2017-07-14 10:12:17.004,"October 19, 2017 12:32 PM",Yes,Unisex XL,SOFTWARE DEVELOPER,Individual,Early Bird,Romania,Sibiu
+Checked In,2017-07-14 12:38:15.000,"October 19, 2017 9:51 AM",Yes,Unisex XL,Data scientist,Corporate,Early Bird,Poland,Krakow
+Checked In,2017-07-14 13:19:03.999,"October 19, 2017 9:34 AM",Yes,Unisex Medium,Specjalista,Corporate,Early Bird,Poland,Warsaw
+Checked In,2017-07-14 20:50:22.001,"October 19, 2017 11:04 AM",Yes,Unisex Large,Phd Student,Individual,Early Bird,Poland,Warsaw
+Checked In,2017-07-14 23:13:18.998,"October 19, 2017 11:13 AM",Yes,Unisex Large,Data Scientist,Individual,Early Bird,Poland,Warsaw
+Checked In,2017-07-15 02:43:57.003,"October 19, 2017 9:45 AM",Yes,Unisex XL,Senior software developer,Corporate,Early Bird,Poland,Ustka
+Checked In,2017-07-15 23:31:05.002,"October 19, 2017 12:00 PM",Yes,Unisex Small,Software Engineer,Individual,Early Bird,Poland,Puławy
+Checked In,2017-07-17 06:51:35.004,"October 19, 2017 9:40 AM",Yes,Unisex Large,CTO,Individual,Regular,Poland,Warsaw
+Checked In,2017-07-18 21:50:20.000,"October 19, 2017 10:11 AM",Yes,Unisex X-Small,Future Data Analyst,Individual,Regular,Poland,Krakow
+Checked In,2017-07-18 21:50:20.000,"October 19, 2017 10:11 AM",Yes,Unisex Medium,Product Team Leader,Individual,Regular,Poland,Krakow
+Checked In,2017-07-19 10:39:20.002,"October 19, 2017 9:54 AM",Yes,Unisex Large,DataScience,Individual,Regular,Spain,Madrid
+Checked In,2017-07-19 10:39:20.002,"October 19, 2017 9:53 AM",Yes,Unisex Small,Data Science,Individual,Regular,Spain,Madrid
+Checked In,2017-07-20 17:43:57.996,"October 19, 2017 10:23 AM",Yes,Unisex Medium,PM/Acoustics&GIS Specialist,Individual,Regular,Poland,Warzachewka Polska
+Checked In,2017-07-24 11:59:23.997,"October 19, 2017 11:48 AM",Yes,Unisex Large,Programmer,Individual,Regular,Poland,Białystok
+Attending,2017-07-24 16:23:48.998,,Yes,Unisex XL,Geek,Corporate,Regular,Poland,Poznan
+Checked In,2017-07-25 10:24:30.997,"October 19, 2017 12:37 PM",Yes,Unisex Medium,Senior iOS Developer,Individual,Regular,Poland,Gdańsk
+Checked In,2017-07-26 18:30:45.996,"October 19, 2017 11:56 AM",No,,Junior Researcher,Individual,Regular,United Kingdom,London
+Checked In,2017-07-31 14:39:55.999,"October 20, 2017 7:15 PM",No,,Data Scientist,Corporate,Regular,Poland,Warsaw
+Checked In,2017-07-31 14:39:55.999,"October 19, 2017 9:37 AM",No,,Senior Software Engineer,Corporate,Regular,Poland,Warsaw
+Checked In,2017-07-31 14:39:55.999,"October 19, 2017 9:35 AM",Yes,Unisex Medium,Data Scientist,Corporate,Regular,Poland,Warsaw
+Checked In,2017-08-01 08:11:15.999,"October 19, 2017 10:57 AM",Yes,Unisex XL,Team Leader,Individual,Regular,Poland,Białystok
+Checked In,2017-08-01 14:07:07.997,"October 19, 2017 10:09 AM",Yes,Unisex Small,Software engineer,Individual,Regular,Poland,Warsaw
+Checked In,2017-08-01 14:28:08.996,"October 19, 2017 12:24 PM",Yes,Unisex Medium,Solution Architect,Individual,Regular,Poland,Warsaw
+Attending,2017-08-01 16:13:04.999,,No,,none,Individual,Regular,Poland,Warsaw
+Checked In,2017-08-01 21:47:13.998,"October 19, 2017 9:38 AM",Yes,Unisex Medium,Data Engineer,Individual,Regular,Poland,Warsaw
+Checked In,2017-08-02 12:26:56.000,"October 19, 2017 11:04 AM",Yes,Unisex Medium,Lead Data Scientist,Individual,Regular,Poland,Białystok
+Checked In,2017-08-02 14:01:58.002,"October 19, 2017 2:43 PM",Yes,Unisex Large,Data Scientist,Individual,Regular,Poland,Warsaw
+Checked In,2017-08-02 14:03:55.999,"October 19, 2017 2:35 PM",Yes,Unisex Small,Junior Data Analyst,Individual,Regular,Poland,Warsaw
+Checked In,2017-08-02 20:06:51.002,"October 19, 2017 9:33 AM",Yes,Unisex Medium,Developer,Individual,Regular,United States,NC
+Checked In,2017-08-03 00:30:18.003,"October 19, 2017 11:01 AM",Yes,Unisex Small,Team Lead,Individual,Regular,Poland,Gdańsk
+Checked In,2017-08-03 10:19:52.003,"October 19, 2017 10:12 AM",Yes,Unisex Medium,Data Scientist,Individual,Regular,Poland,
+Checked In,2017-08-03 12:32:22.998,"October 19, 2017 11:03 AM",Yes,Unisex Medium,Python/Django developer,Individual,Regular,Poland,Białystok
+Checked In,2017-08-03 12:33:36.999,"October 19, 2017 11:48 AM",Yes,Unisex XXL,Python/Django Wizard,Individual,Regular,Poland,Białystok
+Checked In,2017-08-04 10:18:47.998,"October 19, 2017 11:41 AM",Yes,Unisex Medium,DevOps,Corporate,Regular,Poland,Warsaw
+Checked In,2017-08-04 14:37:16.003,"October 19, 2017 9:45 AM",Yes,Unisex Medium,PhD student,Individual,Regular,Poland,Warsaw
+Attending,2017-08-04 14:37:16.003,,Yes,Unisex Medium | Unisex Large,PhD student,Individual,Regular,Poland,Warsaw
+Checked In,2017-08-04 16:20:03.002,"October 19, 2017 11:54 AM",Yes,Unisex Medium,PhD student,Individual,Regular,Poland,Warsaw
+Attending,2017-08-07 13:49:21.000,,Yes,Unisex Medium,PhD Student,Individual,Regular,Poland,Warsaw
+Checked In,2017-08-08 12:47:06.999,"October 19, 2017 11:50 AM",No,,Backend Developer,Individual,Regular,Poland,Szczecin
+Checked In,2017-08-08 14:01:46.001,"October 20, 2017 9:30 AM",Yes,Unisex Medium,Data Engineer,Individual,Regular,Sweden,Stockholm
+Checked In,2017-08-08 14:12:38.002,"October 19, 2017 11:50 AM",Yes,Unisex Medium,CTO,Individual,Regular,Poland,Warsaw
+Checked In,2017-08-10 09:45:36.003,"October 19, 2017 9:47 AM",No,,Data Scientist,Individual,Regular,Poland,Warsaw
+Checked In,2017-08-10 11:26:15.000,"October 19, 2017 11:57 AM",Yes,Unisex Medium,Python Developer,Individual,Regular,Poland,Warsaw
+Attending,2017-08-12 16:27:59.999,,No,,-,Individual,Regular,Poland,Warsaw
+Attending,2017-08-15 08:25:49.996,,Yes,Unisex Large,Reasercher,Individual,Regular,Poland,Lublin
+Attending,2017-08-18 11:07:23.998,,Yes,Unisex Small,Database Developer,Corporate,Regular,Poland,Warsaw
+Attending,2017-08-21 19:47:04.004,,Yes,Unisex Medium,Research engineer,Corporate,Regular,Sweden,Stockholm
+Checked In,2017-08-22 13:40:53.996,"October 20, 2017 11:41 AM",Yes | No,Unisex Medium,Kitchen wench,Individual,Regular,United Kingdom,Penzance
+Checked In,2017-08-23 14:01:07.000,"October 19, 2017 9:46 AM",Yes,Unisex Large,Software Engineer,Corporate,Regular,Poland,Poznan
+Checked In,2017-08-24 09:43:21.996,"October 19, 2017 9:21 AM",Yes,Unisex Medium,junior specialist,Corporate,Regular,Poland,
+Checked In,2017-08-24 09:43:21.996,"October 19, 2017 9:21 AM",Yes,Unisex Medium | Unisex Large,junior specialist,Corporate,Regular,Poland,
+Checked In,2017-08-24 15:54:55.002,"October 19, 2017 2:48 PM",Yes,Unisex Large,CTO,Individual,Regular,Poland,Warsaw
+Checked In,2017-08-24 16:53:29.996,"October 19, 2017 11:23 AM",Yes,Unisex XL,Researcher,Individual,Regular,Poland,Warsaw
+Attending,2017-08-24 17:13:33.004,,Yes,Unisex Small,Research Assistant (Machine Learning),Individual,Regular,United Kingdom,Bristol
+Checked In,2017-08-25 12:28:18.002,"October 19, 2017 12:43 PM",Yes,Unisex Large,Data Scientist,Individual,Regular,Poland,Wrocław
+Attending,2017-08-28 00:31:36.998,,Yes,Unisex Medium,CEO,Individual,Regular,Italy,Turin
+Checked In,2017-08-28 09:37:31.999,"October 19, 2017 11:47 AM",Yes,Unisex Medium,Junior Marketing Manager,Corporate,Regular,Germany,Berlin
+Checked In,2017-08-28 14:26:20.003,"October 19, 2017 11:51 AM",Yes,Unisex XL,Lead Data Scientist,Individual,Regular,Poland,Warsaw
+Checked In,2017-08-28 15:45:21.997,"October 19, 2017 9:18 AM",Yes,Unisex X-Small,Software Engineer Big Data,Individual,Regular,Germany,Dresden
+Checked In,2017-08-28 23:43:57.003,"October 19, 2017 11:51 AM",Yes,Unisex Medium,Customer support engineer,Individual,Regular,Netherlands,Almere Stad
+Checked In,2017-08-29 08:38:44.002,"October 19, 2017 10:13 AM",Yes,Unisex XL,Associate Professor,Individual,Regular,Poland,Warsaw
+Checked In,2017-08-29 18:09:35.001,"October 19, 2017 9:24 AM",Yes,Unisex Medium | Unisex Large,Senior Software Engineer,Individual,Regular,Poland,Grupa
+Checked In,2017-08-29 18:25:06.997,"October 19, 2017 10:09 AM",Yes,Unisex Medium,Senior Data Scientist,Individual,Regular,Poland,Warsaw
+Checked In,2017-08-29 20:24:28.002,"October 20, 2017 7:16 PM",No,,Partner,Individual,Regular,Switzerland,Wetzikon
+Checked In,2017-08-29 20:54:53.004,"October 19, 2017 10:15 AM",Yes,Unisex Small,owner,Individual,Regular,Poland,Warsaw
+Checked In,2017-08-30 00:56:47.996,"October 19, 2017 10:42 AM",Yes,Unisex Medium,Data Scientist,Individual,Regular,Poland,Warsaw
+Checked In,2017-08-30 00:58:53.000,"October 19, 2017 8:11 AM",Yes,Unisex Large,Co-chair,Individual,Regular,Poland,Warsaw
+Checked In,2017-08-30 08:43:33.001,"October 19, 2017 9:35 AM",Yes,Unisex Medium,IT Professional,Individual,Regular,Unknown Location,
+Checked In,2017-08-30 10:31:15.004,"October 20, 2017 7:17 PM",Yes,Unisex Medium,Junior A.I. Engineer,Individual,Regular,Germany,Berlin
+Checked In,2017-08-30 15:12:25.001,"October 19, 2017 12:01 PM",Yes,Unisex Large,Data Scientist,Individual,Regular,Netherlands,Amsterdam
+Checked In,2017-08-30 20:43:17.000,"October 19, 2017 10:00 AM",Yes,Unisex Large,Data Scientist,Individual,Regular,Poland,Krakow
+Checked In,2017-08-30 23:50:19.003,"October 19, 2017 9:53 AM",Yes,Unisex Large,Senior software developer,Corporate,Regular,Poland,Warsaw
+Checked In,2017-08-31 01:02:26.002,"October 19, 2017 2:50 PM",Yes,Unisex Large,Developer,Individual,Regular,Poland,Warsaw
+Checked In,2017-08-31 07:55:36.002,"October 19, 2017 9:25 AM",Yes,Unisex Small,Senior CRM Business Analyst,Corporate,Regular,Poland,Poznan
+Checked In,2017-08-31 09:15:53.001,"October 19, 2017 10:56 AM",Yes,Unisex Medium,Software engineer,Individual,Regular,Poland,Warsaw
+Checked In,2017-08-31 12:46:53.003,"October 19, 2017 9:16 AM",Yes,Unisex Medium,Data Scientist,Corporate,Regular,Norway,Oslo
+Checked In,2017-08-31 14:34:34.997,"October 19, 2017 11:58 AM",Yes,Unisex Large,Programista/Analityk,Individual,Regular,Poland,Warsaw
+Checked In,2017-08-31 16:27:53.001,"October 19, 2017 9:47 AM",Yes,Unisex Medium,Intel AI Software Innovator,Individual,Regular,Portugal,Lisbon
+Checked In,2017-08-31 17:35:04.001,"October 20, 2017 10:53 AM",Yes,Unisex Medium,PyTorch Core Developer,Individual,Regular,United States,New York
+Checked In,2017-09-01 00:15:15.002,"October 19, 2017 9:53 AM",Yes,Unisex Large,Aeronautical Engineer,Individual,Regular,Spain,Madrid
+Checked In,2017-09-01 01:12:13.997,"October 20, 2017 1:37 PM",Yes,Unisex Large,Developer Advocate,Individual,Regular,France,Paris
+Checked In,2017-09-01 08:12:42.002,"October 19, 2017 9:53 AM",Yes,Unisex XL,Aerospace Simulation Engineer,Individual,Regular,Spain,Madrid
+Checked In,2017-09-01 08:57:14.000,"October 19, 2017 9:55 AM",Yes,Unisex Large,Data Scientist,Individual,Regular,Ireland,Dublin
+Checked In,2017-09-01 10:06:26.004,"October 19, 2017 12:03 PM",No,,Pokemon Master,Individual,Regular,Netherlands,Amersfoort
+Checked In,2017-09-01 10:09:12.997,"October 19, 2017 12:01 PM",No,,Data Charmer,Individual,Regular,Netherlands,Almere Stad
+Checked In,2017-09-01 12:04:27.002,"October 19, 2017 9:50 AM",No,,Data Engineering Lead,Individual,Regular,Czech Republic,Prague
+Checked In,2017-09-01 12:16:20.001,"October 19, 2017 10:02 AM",Yes,Unisex Large,Lead Scientist,Individual,Regular,Germany,Paderborn
+Checked In,2017-09-01 13:23:04.001,"October 19, 2017 10:17 AM",Yes,Unisex Large,Big Data Platform Expert,Individual,Regular,Poland,Warzachewka Polska
+Checked In,2017-09-01 15:20:08.002,"October 19, 2017 10:39 AM",Yes,Unisex Large,Senior Data Scientist,Individual,Regular,Spain,Olesa de Montserrat
+Checked In,2017-09-01 16:24:37.002,"October 19, 2017 10:08 AM",Yes,Unisex Small,Software Engineer,Individual,Regular,Germany,Munich
+Checked In,2017-09-03 18:58:20.004,"October 19, 2017 10:14 AM",Yes,Unisex XL,Machine Learning Engineer,Individual,Regular,Poland,Krakow
+Checked In,2017-09-04 14:49:56.004,"October 19, 2017 2:33 PM",Yes,Unisex Large,Software engineer intern,Individual,Regular,France,Paris
+Checked In,2017-09-04 15:34:08.000,"October 19, 2017 9:25 AM",Yes,Unisex Large,Senior Data Scientist,Individual,Regular,Poland,Warsaw
+Checked In,2017-09-04 16:00:50.996,"October 19, 2017 11:03 AM",Yes,Unisex Large,Data Scientist,Individual,Regular,Poland,Warsaw
+Checked In,2017-09-04 19:00:58.997,"October 19, 2017 9:46 AM",Yes,Unisex XL,Python Dev/Entrepreneur,Individual,Regular,Poland,Zielona Góra
+Checked In,2017-09-05 18:36:36.003,"October 19, 2017 9:51 AM",Yes,Unisex Medium,Software developer,Individual,Regular,Ireland,
+Checked In,2017-09-06 09:42:50.996,"October 19, 2017 11:33 AM",Yes,Unisex Medium,Data Scientist,Individual,Regular,Poland,Warsaw
+Checked In,2017-09-06 09:42:50.996,"October 19, 2017 10:15 AM",Yes,Unisex Large,Data Scientist,Individual,Regular,Poland,Warsaw
+Checked In,2017-09-06 11:06:28.996,"October 19, 2017 10:07 AM",Yes,Unisex XXL,Gł. Spec. Modelowanie Ryzyka,Corporate,Regular,Poland,Warsaw
+Checked In,2017-09-06 11:06:28.996,"October 19, 2017 9:50 AM",Yes,Unisex Large,St. Spec. Big Data,Corporate,Regular,Poland,Warsaw
+Checked In,2017-09-06 14:41:35.998,"October 19, 2017 11:54 AM",Yes,Unisex Medium,PhD student,Individual,Regular,Poland,Warsaw
+Checked In,2017-09-06 15:04:36.998,"October 19, 2017 9:15 AM",Yes,Unisex Medium,Chief Advisor,Corporate,Regular,Denmark,Copenhagen
+Checked In,2017-09-07 00:26:26.002,"October 19, 2017 11:42 AM",Yes,Unisex Medium,student,Individual,Regular,Poland,Gdańsk
+Checked In,2017-09-07 10:33:21.001,"October 20, 2017 9:53 AM",Yes,Unisex Large,Sr. Business Solutions Manager,Individual,Regular,Poland,Warsaw
+Checked In,2017-09-08 08:46:24.997,"October 19, 2017 9:52 AM",Yes,Unisex Medium,Junior Specialist,Corporate,Regular,Poland,Warsaw
+Checked In,2017-09-08 08:46:24.997,"October 19, 2017 9:31 AM",No,,Junior Specialist,Corporate,Regular,Poland,Warsaw
+Checked In,2017-09-08 08:46:24.997,"October 19, 2017 9:44 AM",Yes,Unisex Medium,Junior Specialist,Corporate,Regular,Poland,Warsaw
+Checked In,2017-09-08 09:45:01.002,"October 20, 2017 9:19 AM",Yes,Unisex Large,Advanced Analytics Translator,Corporate,Regular,Poland,Warsaw
+Checked In,2017-09-08 17:32:41.001,"October 19, 2017 9:32 AM",Yes,Unisex Small,Analytics Fellow,Individual,Regular,Poland,Warsaw
+Checked In,2017-09-08 19:55:32.002,"October 19, 2017 12:00 PM",Yes,Unisex Medium,researcher,Individual,Regular,Poland,Warsaw
+Checked In,2017-09-09 16:16:35.996,"October 19, 2017 9:18 AM",Yes,Unisex Large,Web developer team leader,Individual,Regular,Poland,
+Attending,2017-09-10 17:24:59.003,,,,Data Science Lady,Corporate,Regular,Poland,Warsaw
+Attending,2017-09-10 21:12:07.998,,Yes,Unisex Small,PublicRelationsBear,Individual,Regular,Germany,
+Checked In,2017-09-10 21:26:31.004,"October 19, 2017 4:31 PM",Yes,Unisex X-Small,Data Scientist,Individual,Regular,Italy,Naples
+Checked In,2017-09-11 13:14:16.002,"October 19, 2017 10:41 AM",Yes,Unisex Large,Data Scientist,Individual,Regular,Germany,Hamburg
+Checked In,2017-09-11 13:15:27.999,"October 19, 2017 9:59 AM",Yes,Unisex Small,Phyton Developer,Corporate,Regular,Poland,Warsaw
+Checked In,2017-09-11 13:15:27.999,"October 19, 2017 10:30 AM",Yes,Unisex Medium,Phyton Developer,Corporate,Regular,Poland,Warsaw
+Checked In,2017-09-11 13:15:27.999,"October 19, 2017 9:55 AM",Yes,Unisex XL,Phyton Developer,Corporate,Regular,Poland,Warsaw
+Checked In,2017-09-11 13:15:27.999,"October 19, 2017 9:56 AM",Yes,Unisex Medium,Phyton Developer,Corporate,Regular,Poland,Warsaw
+Attending,2017-09-11 13:15:27.999,,Yes,Unisex XL,Phyton Developer,Corporate,Regular,Poland,Warsaw
+Checked In,2017-09-11 13:15:27.999,"October 19, 2017 9:55 AM",Yes,Unisex Medium,Phyton Developer,Corporate,Regular,Poland,Warsaw
+Checked In,2017-09-11 13:15:27.999,"October 19, 2017 9:43 AM",Yes,Unisex Medium,Phyton Developer,Corporate,Regular,Poland,Warsaw
+Checked In,2017-09-11 13:43:21.999,"October 19, 2017 9:28 AM",Yes,Unisex Small,Python Developer,Individual,Regular,Poland,Nowy Sącz
+Checked In,2017-09-11 22:05:20.996,"October 19, 2017 12:44 PM",Yes,Unisex Large,Deep learning engineer,Individual,Regular,Poland,Krakow
+Checked In,2017-09-12 12:20:09.004,"October 19, 2017 12:00 PM",Yes,Unisex Medium,Computational designer,Individual,Regular,Poland,Warsaw
+Checked In,2017-09-12 14:09:45.996,"October 19, 2017 10:00 AM",Yes,Unisex Medium,softeare developer,Corporate,Regular,Poland,Krakow
+Checked In,2017-09-12 14:09:45.996,"October 19, 2017 9:25 AM",Yes,Unisex Large,softeare developer,Corporate,Regular,Poland,Krakow
+Checked In,2017-09-12 14:09:45.996,"October 19, 2017 9:44 AM",Yes,,softeare developer,Corporate,Regular,Poland,Krakow
+Checked In,2017-09-12 14:09:45.996,"October 19, 2017 9:29 AM",Yes,Unisex Large,softeare developer,Corporate,Regular,Poland,Krakow
+Checked In,2017-09-12 14:09:45.996,"October 19, 2017 9:45 AM",Yes,Unisex Large,softeare developer,Corporate,Regular,Poland,Krakow
+Checked In,2017-09-14 10:31:49.002,"October 19, 2017 11:47 AM",Yes,Unisex X-Small,Marketing Analyst,Individual,Regular,Germany,
+Checked In,2017-09-15 17:16:27.998,"October 19, 2017 10:27 AM",Yes,Unisex Medium,Quantitative Analyst,Individual,Regular,Poland,Bielsk Podlaski
+Checked In,2017-09-15 17:16:56.001,"October 19, 2017 9:30 AM",Yes,Unisex X-Small,Software Engineer,Individual,Regular,Poland,Bielsk Podlaski
+Checked In,2017-09-16 13:37:44.996,"October 19, 2017 1:11 PM",Yes,Unisex Large,Data Scientist,Individual,Regular,Poland,Poznan
+Checked In,2017-09-16 13:37:44.996,"October 19, 2017 1:19 PM",Yes,Unisex XL,Data Scientist,Individual,Regular,Poland,Poznan
+Checked In,2017-09-16 13:37:44.996,"October 19, 2017 1:09 PM",Yes,Unisex XL,Data Scientist,Individual,Regular,Poland,Poznan
+Checked In,2017-09-17 00:28:34.997,"October 19, 2017 9:59 AM",Yes,Unisex Medium,Developer,Individual,Regular,Poland,Gdańsk
+Checked In,2017-09-18 09:47:55.997,"October 19, 2017 9:29 AM",Yes,Unisex Large,Software Developer,Corporate,Regular,Poland,Krakow
+Checked In,2017-09-18 09:47:55.997,"October 19, 2017 9:27 AM",Yes,Unisex Large,Software Developer,Corporate,Regular,Poland,Krakow
+Checked In,2017-09-18 09:47:55.997,"October 19, 2017 9:27 AM",Yes,Unisex Large,Software Developer,Corporate,Regular,Poland,Krakow
+Checked In,2017-09-18 09:47:55.997,"October 19, 2017 9:22 AM",Yes,Unisex Medium,Software Developer,Corporate,Regular,Poland,Krakow
+Checked In,2017-09-18 11:15:55.002,"October 19, 2017 9:23 AM",Yes,Unisex Medium,Data Analyst,Corporate,Regular,Poland,Poznan
+Checked In,2017-09-18 13:01:26.999,"October 19, 2017 10:04 AM",Yes,Unisex Small,Senior Backend Engineer,Individual,Regular,Poland,Warsaw
+Checked In,2017-09-18 14:09:40.000,"October 19, 2017 9:52 AM",Yes,Unisex Medium,CI Software Architect,Corporate,Regular,Sweden,Stockholm
+Attending,2017-09-18 14:09:40.000,,Yes,Unisex Medium,Software Developer,Corporate,Regular,Sweden,Stockholm
+Checked In,2017-09-18 14:09:40.000,"October 19, 2017 9:52 AM",Yes,Unisex Large,Expert Software Developer,Corporate,Regular,Sweden,Stockholm
+Checked In,2017-09-18 16:34:32.998,"October 19, 2017 10:21 AM",No,,"Senior Wizard, Advertising Technologies",Corporate,Regular,Poland,Warsaw
+Checked In,2017-09-19 15:51:04.997,"October 19, 2017 9:39 AM",Yes,Unisex XL,R&D Engineer,Corporate,Regular,Poland,Warsaw
+Checked In,2017-09-19 15:51:04.997,"October 19, 2017 9:44 AM",Yes,Unisex Large,R&D Engineer,Corporate,Regular,Poland,Warsaw
+Checked In,2017-09-19 15:51:04.997,"October 19, 2017 9:41 AM",Yes,Unisex XL,Head of R&D,Corporate,Regular,Poland,Warsaw
+Checked In,2017-09-19 22:18:35.997,"October 19, 2017 2:35 PM",Yes,Unisex XL,R&D Department Director,Corporate,Regular,Poland,Warsaw
+Checked In,2017-09-19 22:36:51.998,"October 19, 2017 9:39 AM",Yes,Unisex Large,Developer,Individual,Regular,Poland,Zabrze
+Checked In,2017-09-20 09:20:28.003,"October 19, 2017 10:02 AM",Yes,Unisex Small,Implementation specialist,Individual,Regular,Poland,Warsaw
+Checked In,2017-09-20 09:25:29.004,"October 19, 2017 10:04 AM",Yes,Unisex Medium,Researcher,Individual,Regular,Poland,Lublin
+Checked In,2017-09-20 10:19:57.999,"October 19, 2017 10:22 AM",Yes,Unisex XXL,Data Scientist,Individual,Regular,Poland,Warsaw
+Checked In,2017-09-20 13:52:11.001,"October 20, 2017 11:42 AM",Yes,Unisex XXL,Senior Manager,Individual,Regular,Germany,
+Checked In,2017-09-20 13:53:52.002,"October 19, 2017 11:47 AM",Yes,Unisex Medium,Specjalista IT,Individual,Regular,Poland,
+Checked In,2017-09-20 14:28:23.002,"October 19, 2017 9:49 AM",Yes,Unisex X-Small,Software Architect,Corporate,Regular,Czech Republic,Prague
+Checked In,2017-09-22 13:55:37.998,"October 19, 2017 9:48 AM",Yes,Unisex Large,Data Science Intern,Individual,Regular,Poland,Wrocław
+Checked In,2017-09-22 13:58:53.003,"October 19, 2017 9:58 AM",Yes,Unisex Large,Development,Corporate,Regular,Poland,Warsaw
+Checked In,2017-09-22 13:58:53.003,"October 19, 2017 9:56 AM",Yes,Unisex XXL,CTO,Corporate,Regular,Poland,Warsaw
+Checked In,2017-09-22 13:58:53.003,"October 19, 2017 9:46 AM",Yes,Unisex Large,Development,Corporate,Regular,Poland,Warsaw
+Attending,2017-09-22 14:16:26.003,,Yes,Unisex XXL,Head of Development,Corporate,Regular,Poland,Warsaw
+Checked In,2017-09-22 14:16:26.003,"October 19, 2017 9:59 AM",Yes,Unisex Medium,Development,Corporate,Regular,Poland,Warsaw
+Checked In,2017-09-22 14:16:26.003,"October 19, 2017 9:57 AM",Yes,Unisex Medium,Development,Corporate,Regular,Poland,Warsaw
+Checked In,2017-09-22 14:16:26.003,"October 19, 2017 10:05 AM",Yes,Unisex Large,Development,Corporate,Regular,Poland,Warsaw
+Checked In,2017-09-25 09:46:25.000,"October 19, 2017 11:59 AM",Yes,Unisex XL,Consultant,Corporate,Regular,Poland,Warsaw
+Checked In,2017-09-25 11:10:24.997,"October 19, 2017 9:25 AM",Yes,Unisex Medium,Business Analyst,Corporate,Regular,Poland,
+Checked In,2017-09-25 12:42:27.996,"October 19, 2017 11:42 AM",No,,Product Researcher,Corporate,Regular,Poland,Warsaw
+Checked In,2017-09-25 13:44:18.997,"October 19, 2017 11:43 AM",Yes,Unisex Medium,data scientist,Individual,Regular,Czech Republic,Prague
+Checked In,2017-09-25 15:23:37.003,"October 19, 2017 9:51 AM",,,programmer,Corporate,Regular,Poland,Warsaw
+Checked In,2017-09-25 15:26:23.004,"October 19, 2017 10:45 AM",Yes,Unisex Large,Software developer,Individual,Regular,Poland,
+Attending,2017-09-25 21:59:17.002,,Yes,Unisex Medium,Software Engineer,Individual,Regular,Israel,Tel Aviv
+Checked In,2017-09-25 23:15:29.998,"October 19, 2017 9:31 AM",Yes,Unisex Medium,Security technician,Individual,Regular,Poland,
+Checked In,2017-09-26 09:21:22.997,"October 19, 2017 9:58 AM",Yes,Unisex Medium,developer,Individual,Regular,Poland,Krakow
+Checked In,2017-09-26 09:21:22.997,"October 19, 2017 9:59 AM",Yes,Unisex Large,developer,Individual,Regular,Poland,Krakow
+Checked In,2017-09-26 10:50:31.001,"October 19, 2017 11:47 AM",Yes,Unisex XXL,Regular Developer,Individual,Regular,Poland,Warsaw
+Checked In,2017-09-26 13:25:05.998,"October 19, 2017 11:37 AM",Yes,Unisex Small | Unisex Medium,research assistant,Corporate,Regular,Poland,Warsaw
+Checked In,2017-09-26 15:12:46.999,"October 19, 2017 11:45 AM",Yes,Unisex Small,Junior Online Developer,Corporate,Regular,Poland,Warsaw
+Checked In,2017-09-26 15:12:46.999,"October 19, 2017 9:47 AM",Yes,Unisex XL,MI Analytics Developer,Corporate,Regular,Poland,Warsaw
+Checked In,2017-09-26 15:12:46.999,"October 19, 2017 9:46 AM",Yes,Unisex Medium,Junior Data Scientist,Corporate,Regular,Poland,Warsaw
+Checked In,2017-09-26 19:48:54.000,"October 19, 2017 9:20 AM",Yes,Unisex Medium,Software Developer,Individual,Regular,Poland,Warsaw
+Checked In,2017-09-27 08:03:43.998,"October 19, 2017 2:50 PM",Yes,Unisex XL,Data Scientist / Owner,Individual,Regular,Poland,Kielczow
+Checked In,2017-09-27 11:47:38.999,"October 19, 2017 9:23 AM",Yes,Unisex Large,Junior Data Scientist,Individual,Regular,Poland,Krakow
+Checked In,2017-09-27 11:49:39.000,"October 19, 2017 9:24 AM",Yes,Unisex Medium,Data Analyst,Individual,Regular,Poland,Krakow
+Checked In,2017-09-27 12:02:56.999,"October 19, 2017 11:42 AM",Yes,Unisex XL,Junior Data Scientist,Corporate,Regular,Poland,Warsaw
+Attending,2017-09-27 12:02:56.999,,Yes,Unisex Large,Junior Data Scientist,Corporate,Regular,Poland,Warsaw
+Attending,2017-09-27 12:02:56.999,,Yes,Unisex XL,Junior Data Scientist,Corporate,Regular,Poland,Warsaw
+Checked In,2017-09-27 12:03:22.997,"October 19, 2017 9:52 AM",,,data engineer,Individual,Regular,Poland,
+Checked In,2017-09-27 13:27:49.000,"October 19, 2017 9:28 AM",Yes,Unisex Large,Department Manager,Corporate,Regular,Norway,Oslo
+Checked In,2017-09-27 13:27:49.000,"October 19, 2017 9:28 AM",Yes,Unisex Large,Systems Developer,Corporate,Regular,Norway,Oslo
+Checked In,2017-09-27 14:34:15.004,"October 19, 2017 10:02 AM",Yes,Unisex Medium,R&D Security Expert,Individual,Regular,Poland,Piaseczno
+Attending,2017-09-27 15:01:37.001,,Yes,Unisex Medium,IT Security Specialisty,Individual,Regular,Poland,Piaseczno
+Attending,2017-09-27 17:31:17.996,,Yes,Unisex Small,Business Intelligence Analyst,Individual,Regular,Poland,Warsaw
+Checked In,2017-09-27 17:56:42.999,"October 19, 2017 9:26 AM",Yes,Unisex Large,Developer,Individual,Regular,Ukraine,
+Checked In,2017-09-27 17:56:42.999,"October 19, 2017 9:27 AM",Yes,Unisex Large,Developer,Individual,Regular,Ukraine,
+Checked In,2017-09-27 17:56:42.999,"October 19, 2017 9:27 AM",Yes,Unisex Large,Developer,Individual,Regular,Ukraine,
+Checked In,2017-09-27 21:28:06.001,"October 19, 2017 9:48 AM",Yes,Unisex X-Small,Mr,Individual,Regular,Poland,Warsaw
+Attending,2017-09-27 21:46:19.004,,Yes,Unisex Large,Developer,Individual,Regular,Poland,
+Checked In,2017-09-27 21:46:19.004,"October 19, 2017 10:03 AM",Yes,Unisex XL,R&D Director,Individual,Regular,Poland,
+Checked In,2017-09-27 22:12:01.996,"October 19, 2017 9:13 AM",Yes,Unisex Small,Machine Learning Engineer,Individual,Regular,Poland,Krakow
+Checked In,2017-09-27 23:39:45.000,"October 19, 2017 10:22 AM",Yes,Unisex Medium,Data Scientist,Individual,Regular,Netherlands,Utrecht
+Checked In,2017-09-28 00:26:04.998,"October 19, 2017 10:09 AM",Yes,Unisex Medium,Data Science Manager,Individual,Regular,Poland,Warsaw
+Checked In,2017-09-28 10:33:54.999,"October 19, 2017 10:04 AM",Yes,Unisex Small,Energy and Sustainability Analyst,Individual,Regular,United Kingdom,London
+Checked In,2017-09-28 10:39:51.002,"October 19, 2017 9:22 AM",Yes,Unisex Medium,V-ce President,Individual,Regular,Poland,Warsaw
+Checked In,2017-09-28 11:05:31.998,"October 19, 2017 10:00 AM",Yes,Unisex Large,Python Developer,Individual,Regular,Poland,Hornowek
+Checked In,2017-09-28 11:16:42.004,"October 19, 2017 9:34 AM",Yes,Unisex Medium,Python Dev,Individual,Regular,Poland,Warsaw
+Checked In,2017-09-28 12:52:49.999,"October 19, 2017 9:15 AM",Yes,Unisex Large,Customer Success Executive,Individual,Regular,Poland,Warsaw
+Checked In,2017-09-28 15:48:41.003,"October 19, 2017 10:15 AM",Yes,Unisex Medium,Chief Scientist,Individual,Regular,Poland,Wrocław
+Checked In,2017-09-28 15:58:35.996,"October 19, 2017 11:56 AM",Yes,Unisex Large,Environmental Modelling Specialist,Individual,Regular,Poland,Warsaw
+Checked In,2017-09-28 16:34:21.999,"October 20, 2017 11:38 AM",Yes,,iot ecosystem manager,Individual,Regular,Unknown Location,
+Checked In,2017-09-28 16:36:53.001,"October 19, 2017 10:35 AM",Yes,Unisex Large,Senior Data Engineer,Individual,Regular,Poland,Warsaw
+Checked In,2017-09-28 20:32:20.999,"October 19, 2017 9:42 AM",Yes,Unisex Medium,Software Engineer,Individual,Regular,Netherlands,Amsterdam
+Checked In,2017-09-28 21:04:55.004,"October 19, 2017 11:55 AM",Yes,Unisex Small,environmental data analyst,Individual,Regular,Poland,Warsaw
+Checked In,2017-09-28 22:01:52.003,"October 19, 2017 9:26 AM",Yes,Unisex Large | Unisex XL,Data Scientist,Individual,Regular,Poland,Warsaw
+Checked In,2017-09-29 09:32:33.003,"October 19, 2017 10:05 AM",Yes,Unisex XL,Web Developer,Individual,Regular,Poland,Katowice
+Checked In,2017-09-29 10:09:35.997,"October 19, 2017 10:44 AM",Yes,Unisex Large,Senior Consultant,Corporate,Regular,Poland,Warsaw
+Checked In,2017-09-29 10:55:52.997,"October 19, 2017 11:46 AM",No,,Student,Individual,Regular,Poland,
+Attending,2017-09-29 11:37:48.999,,Yes,Unisex Large,Senior Analyst,Individual,Regular,Poland,Warsaw
+Checked In,2017-09-29 11:42:06.998,"October 19, 2017 9:30 AM",Yes,Unisex Medium,PhD student,Individual,Regular,Poland,Krakow
+Checked In,2017-09-29 13:12:27.000,"October 19, 2017 11:53 AM",Yes,Unisex XL,Data engineer,Individual,Regular,Poland,Wrocław
+Checked In,2017-09-29 13:18:16.998,"October 19, 2017 11:53 AM",Yes,Unisex Large,Data Scientist,Individual,Regular,Poland,Wrocław
+Checked In,2017-09-29 13:18:16.998,"October 19, 2017 11:53 AM",Yes,Unisex Medium,Data Scientist Team Leader,Individual,Regular,Poland,Wrocław
+Checked In,2017-09-29 13:18:16.998,"October 19, 2017 11:53 AM",Yes,Unisex XL,Data Scientist,Individual,Regular,Poland,Wrocław
+Checked In,2017-09-29 14:01:51.997,"October 19, 2017 11:49 AM",Yes,Unisex Large,PhD student,Individual,Regular,Poland,Warzachewka Polska
+Checked In,2017-09-29 14:30:27.003,"October 19, 2017 11:09 AM",Yes,Unisex Large,CRM Manager,Corporate,Regular,Poland,Warsaw
+Checked In,2017-09-29 14:43:30.996,"October 19, 2017 11:45 AM",Yes,Unisex Large,Student,Individual,Regular,Poland,Poznan
+Checked In,2017-09-29 14:47:40.001,"October 19, 2017 11:46 AM",Yes,Unisex Large,Student,Individual,Regular,Poland,Poznan
+Checked In,2017-09-29 14:50:46.997,"October 19, 2017 9:39 AM",Yes,Unisex Medium,Student,Individual,Regular,Poland,Poznan
+Checked In,2017-09-29 15:01:26.996,"October 19, 2017 11:45 AM",Yes,Unisex Small,Student,Individual,Regular,Poland,Poznan
+Checked In,2017-09-29 15:03:14.003,"October 19, 2017 11:45 AM",Yes,Unisex Large,Student,Individual,Regular,Poland,Poznan
+Checked In,2017-09-29 15:06:15.002,"October 19, 2017 9:30 AM",Yes,Unisex Large,Student,Individual,Regular,Poland,Krakow
+Checked In,2017-09-29 15:47:32.997,"October 19, 2017 11:46 AM",Yes,Unisex Medium,student,Individual,Regular,Poland,Poznan
+Checked In,2017-09-29 16:16:47.004,"October 19, 2017 9:50 AM",Yes,Unisex Large,Machine Learning Engineer,Corporate,Regular,Poland,Poznan
+Checked In,2017-09-29 16:49:07.997,"October 19, 2017 10:23 AM",Yes,Unisex Medium,Data Scientist,Individual,Regular,Germany,
+Checked In,2017-09-29 17:10:58.002,"October 19, 2017 9:36 AM",No,,Junior data scientist,Corporate,Regular,Poland,Warsaw
+Checked In,2017-09-29 17:10:58.002,"October 19, 2017 10:18 AM",No,,Senior data scientist,Corporate,Regular,Poland,Warsaw
+Checked In,2017-09-29 17:10:58.002,"October 19, 2017 9:37 AM",No,,Data scientist,Corporate,Regular,Poland,Warsaw
+Checked In,2017-09-29 20:21:53.001,"October 19, 2017 9:37 AM",Yes,Unisex Medium,Student,Individual,Regular,Poland,Warsaw
+Checked In,2017-09-29 20:25:30.996,"October 19, 2017 9:35 AM",Yes,Unisex Large,Student,Individual,Regular,Poland,Warzachewka Polska
+Checked In,2017-09-29 21:45:33.998,"October 19, 2017 9:36 AM",,,student,Individual,Regular,Poland,Łódź
+Checked In,2017-09-29 21:52:12.000,"October 19, 2017 9:18 AM",Yes,Unisex Small,Analyst,Corporate,Regular,Ireland,Dublin
+Checked In,2017-09-29 22:23:09.997,"October 19, 2017 10:12 AM",Yes,Unisex Medium,Researcher,Individual,Regular,Poland,Warsaw
+Checked In,2017-09-29 22:34:31.996,"October 19, 2017 10:50 AM",Yes,Unisex Large,Project Manager,Individual,Regular,Poland,Krakow
+Checked In,2017-09-30 14:27:40.000,"October 19, 2017 12:04 PM",Yes,Unisex Large,Data Analyst,Individual,Regular,Poland,Pleszew
+Checked In,2017-09-30 14:27:40.000,"October 19, 2017 12:03 PM",Yes,Unisex Large,Software Engineer,Individual,Regular,Poland,Pleszew
+Checked In,2017-09-30 18:54:24.002,"October 19, 2017 10:51 AM",Yes,Unisex Large,Research Scientist,Individual,Regular,Poland,Warsaw
+Checked In,2017-09-30 19:44:49.998,"October 19, 2017 11:31 AM",Yes,Unisex XXL,Data Scientist,Individual,Regular,Poland,Wrocław
+Checked In,2017-09-30 21:28:53.996,"October 19, 2017 11:44 AM",Yes,Unisex Large,Technical Consultant,Corporate,Regular,United States,TX
+Checked In,2017-09-30 23:12:42.002,"October 19, 2017 2:46 PM",,,Intern,Individual,Regular,Poland,Rusiec
+Checked In,2017-10-01 10:59:36.997,"October 19, 2017 11:54 AM",Yes,Unisex XXL,Sr Data Scientist,Individual,Final Call,Poland,Warsaw
+Checked In,2017-10-02 11:42:24.002,"October 20, 2017 7:17 PM",Yes,Unisex Small,Lead developer,Individual,Final Call,Poland,Warsaw
+Checked In,2017-10-02 11:43:44.000,"October 20, 2017 7:17 PM",Yes,Unisex Medium,student,Individual,Final Call,Poland,Warsaw
+Checked In,2017-10-02 11:50:54.004,"October 19, 2017 8:15 AM",Yes,Unisex Medium,Organizer,Individual,Final Call,United Kingdom,London
+Checked In,2017-10-02 11:57:47.998,"October 19, 2017 10:03 AM",No,,Chief Scientist,Individual,Final Call,Poland,Warsaw
+Checked In,2017-10-02 12:05:13.001,"October 19, 2017 10:40 AM",Yes,Unisex Small,Data Scientist,Individual,Final Call,Poland,Bielsko-Biala
+Checked In,2017-10-02 12:25:47.001,"October 20, 2017 7:19 PM",Yes,Unisex XL,Organizer,Individual,Final Call,Poland,Białystok
+Checked In,2017-10-02 12:37:42.997,"October 19, 2017 10:22 AM",Yes,Unisex Medium,Data Scientist,Individual,Final Call,Poland,Warsaw
+Checked In,2017-10-02 13:12:21.004,"October 19, 2017 9:55 AM",No,,Consultant,Corporate,Final Call,Poland,Warsaw
+Checked In,2017-10-02 14:18:46.999,"October 19, 2017 12:44 PM",Yes,Unisex Large,CTO,Individual,Final Call,Poland,Warsaw
+Checked In,2017-10-02 14:31:40.002,"October 19, 2017 8:11 AM",Yes,Unisex Medium,Event Manager,Individual,Final Call,Poland,Białystok
+Checked In,2017-10-02 17:34:34.997,"October 20, 2017 7:16 PM",Yes,Unisex Medium,student,Individual,Final Call,Poland,Warsaw
+Checked In,2017-10-03 09:59:40.001,"October 19, 2017 10:49 AM",No,,Machine Learning Architect,Individual,Final Call,Poland,Warsaw
+Checked In,2017-10-03 12:50:10.003,"October 19, 2017 11:02 AM",Yes,Unisex Small,Senior Software Engineer,Corporate,Final Call,Poland,Poznan
+Checked In,2017-10-03 13:07:15.001,"October 19, 2017 9:59 AM",Yes,Unisex Medium | Unisex Large,Team Leader,Corporate,Final Call,Poland,Poznan
+Checked In,2017-10-03 14:29:10.997,"October 19, 2017 11:58 AM",No,,R&D Engineer,Individual,Final Call,Poland,Krakow
+Checked In,2017-10-03 14:55:04.002,"October 19, 2017 11:16 AM",No,,Head of data science,Corporate,Final Call,Poland,Warsaw
+Checked In,2017-10-03 16:00:19.996,"October 19, 2017 10:06 AM",Yes,Unisex Medium,Consultant,Corporate,Final Call,Poland,
+Checked In,2017-10-03 16:00:19.996,"October 19, 2017 10:05 AM",Yes,Unisex XL,Associate Consultant,Corporate,Final Call,Poland,
+Checked In,2017-10-03 17:21:26.001,"October 19, 2017 10:16 AM",Yes,Unisex Large,Head of AI,Corporate,Final Call,Poland,Warsaw
+Checked In,2017-10-03 17:34:49.996,"October 19, 2017 12:18 PM",Yes,Unisex XL,Group Leader,Corporate,Final Call,Poland,Warsaw
+Checked In,2017-10-03 17:46:58.002,"October 19, 2017 11:10 AM",Yes,Unisex Large,Principal Software Engineer,Corporate,Final Call,Poland,Warsaw
+Checked In,2017-10-03 19:57:36.003,"October 19, 2017 11:45 AM",Yes,Unisex XL,Student,Individual,Final Call,Poland,Poznan
+Attending,2017-10-03 22:34:35.003,,Yes,Unisex Large,software developer,Individual,Final Call,Poland,Warsaw
+Checked In,2017-10-04 09:13:09.998,"October 19, 2017 12:02 PM",Yes,Unisex Medium,NLP Engineer,Corporate,Final Call,Poland,Warsaw
+Checked In,2017-10-04 09:34:37.998,"October 19, 2017 12:35 PM",Yes,Unisex Medium,student,Individual,Final Call,Poland,Warsaw
+Checked In,2017-10-04 11:27:34.998,"October 19, 2017 10:08 AM",No,,Data Scientist,Corporate,Final Call,Germany,Braunschweig
+Checked In,2017-10-05 12:56:48.998,"October 19, 2017 10:01 AM",Yes,Unisex Medium,Senior Software Engineer,Corporate,Final Call,Poland,
+Checked In,2017-10-05 14:30:18.000,"October 19, 2017 11:18 AM",Yes,Unisex XXL,Java Team Lead,Corporate,Final Call,Denmark,Frederiksberg
+Attending,2017-10-05 15:15:23.003,,Yes,Unisex Large,Software engineer,Corporate,Final Call,Denmark,Frederiksberg
+Checked In,2017-10-06 09:37:37.001,"October 19, 2017 2:50 PM",Yes,Unisex Medium,Programmer,Corporate,Final Call,Denmark,Frederiksberg
+Checked In,2017-10-06 09:40:51.997,"October 19, 2017 9:49 AM",Yes,Unisex Large,Developer,Corporate,Final Call,Denmark,Frederiksberg
+Checked In,2017-10-06 10:33:40.000,"October 19, 2017 11:37 AM",Yes,Unisex Medium,Python Programmer,Individual,Final Call,Poland,Warsaw
+Checked In,2017-10-06 14:35:02.999,"October 19, 2017 10:45 AM",Yes,Unisex XXL,Teacher,Individual,Final Call,Poland,Warsaw
+Checked In,2017-10-06 16:58:21.000,"October 19, 2017 11:52 AM",Yes,Unisex Large,Student,Individual,Final Call,Poland,Warsaw
+Checked In,2017-10-06 19:41:01.997,"October 19, 2017 10:14 AM",Yes,Unisex Medium,Student,Individual,Final Call,Poland,Poznan
+Checked In,2017-10-06 20:17:59.004,"October 19, 2017 9:54 AM",Yes,Unisex Large,PhD candidate,Individual,Final Call,Poland,Warsaw
+Checked In,2017-10-07 10:36:36.999,"October 19, 2017 10:10 AM",Yes,Unisex XL,Software Engineer,Corporate,Final Call,Germany,Kamen
+Checked In,2017-10-07 19:08:38.999,"October 19, 2017 9:37 AM",Yes,Unisex Small,Tutor,Individual,Final Call,Poland,Warzachewka Polska
+Checked In,2017-10-08 14:34:33.001,"October 19, 2017 10:23 AM",Yes,Unisex Large,President,Individual,Final Call,Poland,
+Checked In,2017-10-08 19:00:45.000,"October 19, 2017 9:29 AM",Yes,Unisex Small,Student,Individual,Final Call,Germany,Solingen
+Checked In,2017-10-08 21:01:00.998,"October 19, 2017 11:50 AM",Yes,Unisex Medium,Analysis Team Coordinator,Individual,Final Call,Poland,Warsaw
+Checked In,2017-10-08 22:56:07.002,"October 19, 2017 9:48 AM",Yes,Unisex XL,Data Scientist,Individual,Final Call,Poland,Białystok
+Checked In,2017-10-08 22:56:07.002,"October 19, 2017 11:59 AM",Yes,Unisex XL,Data Scientist,Individual,Final Call,Poland,Białystok
+Checked In,2017-10-08 22:56:07.002,"October 19, 2017 11:07 AM",Yes,Unisex Small,Data Scientist,Individual,Final Call,Poland,Białystok
+Checked In,2017-10-08 22:56:07.002,"October 19, 2017 9:42 AM",Yes,Unisex XL,Data Scientist,Individual,Final Call,Poland,Białystok
+Checked In,2017-10-08 22:56:07.002,"October 19, 2017 11:27 AM",Yes,Unisex XL,Data Scientist,Individual,Final Call,Poland,Białystok
+Checked In,2017-10-08 22:56:07.002,"October 19, 2017 9:31 AM",Yes,Unisex Medium,Data Scientist,Individual,Final Call,Poland,Białystok
+Checked In,2017-10-08 22:56:07.002,"October 19, 2017 9:21 AM",Yes,Unisex Large,Data Scientist,Individual,Final Call,Poland,Białystok
+Attending,2017-10-08 22:56:07.002,,Yes,Unisex XL,Data Scientist,Individual,Final Call,Poland,Białystok
+Checked In,2017-10-08 23:01:04.996,"October 19, 2017 9:42 AM",Yes,Unisex XL,Data Scientist,Individual,Final Call,Poland,Białystok
+Checked In,2017-10-08 23:01:04.996,"October 19, 2017 9:50 AM",Yes,Unisex Small,Data Scientist,Individual,Final Call,Poland,Białystok
+Checked In,2017-10-09 11:10:08.996,"October 19, 2017 10:01 AM",Yes,Unisex XL,Intern,Individual,Final Call,Poland,
+Checked In,2017-10-09 11:12:50.003,"October 19, 2017 10:56 AM",Yes,Unisex Medium,Developer,Individual,Final Call,Poland,Białystok
+Checked In,2017-10-09 13:09:50.996,"October 19, 2017 10:05 AM",Yes,Unisex Small,Business Analyst,Individual,Final Call,Unknown Location,
+Checked In,2017-10-09 14:32:03.002,"October 19, 2017 11:44 AM",Yes,Unisex Medium,Node.js Software Engineer,Corporate,Final Call,Poland,Krakow
+Checked In,2017-10-09 14:32:03.002,"October 19, 2017 11:44 AM",Yes,Unisex Large,Embeded Software Engineer,Corporate,Final Call,Poland,Krakow
+Attending,2017-10-09 16:08:02.003,,Yes,Unisex XXL,senior developer,Corporate,Final Call,Denmark,Frederiksberg
+Checked In,2017-10-09 17:55:39.003,"October 19, 2017 10:07 AM",Yes,Unisex Medium,Student,Individual,Final Call,Germany,Munich
+Checked In,2017-10-09 19:28:55.001,"October 19, 2017 9:38 AM",Yes,Unisex Medium,Actuarial Specialist,Individual,Final Call,Poland,
+Checked In,2017-10-09 21:07:52.997,"October 20, 2017 7:19 PM",Yes,Unisex XL,Vice President,Individual,Final Call,Poland,Warsaw
+Checked In,2017-10-09 21:29:20.996,"October 19, 2017 10:02 AM",Yes,Unisex Medium,Student,Individual,Final Call,Poland,Warsaw
+Checked In,2017-10-09 22:21:52.998,"October 19, 2017 12:26 PM",Yes,Unisex Large,Data Engineer,Individual,Final Call,Poland,
+Checked In,2017-10-10 08:55:05.998,"October 19, 2017 12:00 PM",Yes,Unisex XL,Data Scientist,Individual,Final Call,Poland,Warsaw
+Checked In,2017-10-10 09:57:18.003,"October 19, 2017 12:02 PM",Yes,Unisex Medium,Head of Backend Development,Individual,Final Call,Poland,Warsaw
+Checked In,2017-10-10 10:09:14.000,"October 19, 2017 11:44 AM",Yes,Unisex Large,Software Engineer,Individual,Final Call,Poland,Warsaw
+Checked In,2017-10-10 11:11:10.997,"October 19, 2017 10:58 AM",Yes,Unisex Small | Unisex Medium,Data Scientist,Individual,Final Call,Poland,
+Checked In,2017-10-10 11:54:07.004,"October 19, 2017 11:32 AM",Yes,Unisex Medium,Owner,Individual,Final Call,Poland,Warsaw
+Checked In,2017-10-10 15:28:52.000,"October 19, 2017 10:34 AM",Yes,Unisex Large,digital journalist,Individual,Final Call,Poland,Warsaw
+Checked In,2017-10-10 15:49:39.003,"October 20, 2017 7:16 PM",Yes,Unisex Large,python programmer,Individual,Final Call,Poland,Toruń
+Checked In,2017-10-10 19:48:52.004,"October 19, 2017 11:59 AM",Yes,Unisex Large,MLeng,Individual,Final Call,Poland,Warsaw
+Checked In,2017-10-11 07:58:49.996,"October 19, 2017 9:28 AM",No,,IT Consultant,Corporate,Final Call,Denmark,Frederiksberg
+Checked In,2017-10-11 07:59:28.997,"October 19, 2017 10:07 AM",Yes,Unisex Large,IT Consultant,Corporate,Final Call,Denmark,Frederiksberg
+Checked In,2017-10-11 09:29:06.999,"October 19, 2017 9:48 AM",Yes,Unisex Large,student,Individual,Final Call,Germany,Osnabrück
+Checked In,2017-10-11 10:12:55.996,"October 20, 2017 7:15 PM",Yes,Unisex Large,Co-founder,Individual,Final Call,Poland,Warsaw
+Checked In,2017-10-11 11:47:57.998,"October 19, 2017 9:49 AM",,,CTO,Individual,Final Call,Poland,Olsztyn
+Checked In,2017-10-11 11:47:57.998,"October 19, 2017 9:50 AM",,,CEO,Individual,Final Call,Poland,Olsztyn
+Checked In,2017-10-11 11:49:44.003,"October 19, 2017 10:03 AM",Yes,Unisex XL | Unisex XXL,Student,Individual,Final Call,Poland,Warsaw
+Checked In,2017-10-11 13:35:22.998,"October 19, 2017 10:09 AM",Yes,Unisex Small,GIS Engineer,Individual,Final Call,Poland,Łódź
+Checked In,2017-10-12 00:17:22.001,"October 19, 2017 9:40 AM",Yes,Unisex Large,software engineer,Corporate,Final Call,Poland,Warsaw
+Checked In,2017-10-12 02:10:16.003,"October 20, 2017 7:16 PM",Yes,Unisex Medium,owner,Individual,Final Call,Poland,Warsaw
+Checked In,2017-10-12 14:48:47.998,"October 19, 2017 9:38 AM",Yes,Unisex X-Small,MD,Individual,Final Call,Poland,
+Checked In,2017-10-12 17:22:02.997,"October 19, 2017 10:05 AM",Yes | No,Unisex Small,Software Engineer,Corporate,Final Call,Poland,Poznan
+Attending,2017-10-12 17:22:02.997,,Yes | No,Unisex Large,Software Engineer,Corporate,Final Call,Poland,Poznan
+Checked In,2017-10-12 17:41:11.996,"October 20, 2017 7:16 PM",Yes,Unisex Medium,Ruby Developer,Individual,Final Call,Poland,Warsaw
+Checked In,2017-10-12 22:50:40.004,"October 19, 2017 10:14 AM",Yes,Unisex Large,Java / Android,Individual,Final Call,Poland,Wołomin
+Checked In,2017-10-13 11:20:02.996,"October 19, 2017 10:15 AM",Yes,Unisex Medium,Data Scientist,Individual,Final Call,Poland,Warsaw
+Attending,2017-10-13 12:24:31.997,,Yes,Unisex Medium,Data Scientist,Individual,Final Call,Poland,Warsaw
+Checked In,2017-10-13 12:29:20.996,"October 19, 2017 11:58 AM",,,CTO,Individual,Final Call,Poland,Krakow
+Checked In,2017-10-13 13:13:10.001,"October 19, 2017 10:17 AM",Yes,Unisex XL,student,Individual,Final Call,Latvia,Riga
+Checked In,2017-10-13 13:22:03.996,"October 19, 2017 11:15 AM",Yes,Unisex Large,Chief Data Scientist,Corporate,Final Call,Poland,Warsaw
+Checked In,2017-10-13 16:25:11.001,"October 19, 2017 11:57 AM",No,,Data Scientist,Corporate,Final Call,Poland,Krakow
+Checked In,2017-10-15 09:41:49.004,"October 19, 2017 9:42 AM",Yes,Unisex Large,Data Science Engineer,Individual,Final Call,Poland,Warsaw
+Checked In,2017-10-16 08:08:51.996,"October 20, 2017 7:17 PM",Yes,Unisex Medium,"Engineer Manager, Cloud",Individual,Final Call,Poland,Warsaw
+Checked In,2017-10-16 08:50:53.002,"October 19, 2017 9:45 AM",Yes,Unisex Small,Data Science Engineer,Individual,Final Call,Poland,Olsztyn
+Checked In,2017-10-16 09:57:59.000,"October 19, 2017 9:20 AM",Yes,Unisex Medium,Competence Center Manager,Individual,Final Call,Poland,Poznan
+Checked In,2017-10-16 10:11:58.004,"October 19, 2017 11:50 AM",Yes,Unisex Large,Kierownik Wydziału Innowacji,Corporate,Final Call,Poland,Warsaw
+Checked In,2017-10-16 10:11:58.004,"October 19, 2017 10:03 AM",Yes,Unisex Large,Ekspert Nowych Technologii IT,Corporate,Final Call,Poland,Warsaw
+Checked In,2017-10-16 10:49:58.999,"October 19, 2017 9:32 AM",No,,Advanced Analytics Intern,Corporate,Final Call,Unknown Location,
+Checked In,2017-10-16 12:18:52.998,"October 19, 2017 11:48 AM",Yes,Unisex Medium,Software Developer,Individual,Final Call,Poland,Warsaw
+Checked In,2017-10-16 13:44:21.002,"October 19, 2017 8:10 AM",Yes,Unisex Small,Volunteer,Individual,Final Call,Poland,Białystok
+Checked In,2017-10-16 13:48:48.997,"October 19, 2017 10:01 AM",Yes,Unisex XL,Data Scientist,Individual,Final Call,Poland,Warsaw
+Checked In,2017-10-16 19:43:36.998,"October 19, 2017 11:46 AM",Yes,Unisex Small,Student,Individual,Final Call,Poland,
+Checked In,2017-10-16 20:05:04.998,"October 19, 2017 10:12 AM",Yes,Unisex Large,Data Scientist,Individual,Final Call,Poland,Warsaw
+Checked In,2017-10-16 20:48:00.003,"October 19, 2017 10:09 AM",Yes,Unisex XL,owner,Individual,Final Call,Poland,Wrocław
+Attending,2017-10-16 20:55:39.003,,Yes,Unisex Large,Senior Data Science Engineer,Individual,Final Call,Poland,Rzeszów
+Checked In,2017-10-17 00:58:21.999,"October 20, 2017 7:19 PM",Yes,Unisex Medium,Executive Director,Individual,Final Call,United States,Schertz
+Checked In,2017-10-17 00:58:21.999,"October 20, 2017 7:18 PM",Yes,Unisex Small,Vice President,Individual,Final Call,United States,Schertz
+Attending,2017-10-17 07:53:59.001,,Yes,Unisex XL,Data Scientist,Individual,Final Call,Poland,
+Checked In,2017-10-17 09:38:43.996,"October 19, 2017 2:50 PM",No,,Head of Engineering,Individual,Final Call,Poland,Białystok
+Checked In,2017-10-17 10:42:18.003,"October 19, 2017 10:06 AM",Yes,Unisex Small,Data Scientist,Corporate,Final Call,United Kingdom,London
+Checked In,2017-10-17 10:44:14.997,"October 19, 2017 9:55 AM",Yes,Unisex Large,software developer,Corporate,Final Call,Poland,Warsaw
+Checked In,2017-10-17 10:44:14.997,"October 19, 2017 9:55 AM",Yes,Unisex XL,head of natural language processing lab,Corporate,Final Call,Poland,Warsaw
+Checked In,2017-10-17 11:17:13.998,"October 19, 2017 8:10 AM",Yes,Unisex XL,Student,Individual,Final Call,Poland,Warsaw
+Checked In,2017-10-17 11:28:12.003,"October 19, 2017 11:40 AM",Yes,Unisex Medium,Technical Lead,Corporate,Final Call,Denmark,Copenhagen
+Checked In,2017-10-17 11:45:27.999,"October 19, 2017 9:44 AM",Yes,Unisex Large,Kierownik Wydziału Rozwoju Sieci,Corporate,Final Call,Poland,Warsaw
+Checked In,2017-10-17 11:45:27.999,"October 19, 2017 9:45 AM",Yes,Unisex Large,Starszy Specjalista Rozwoju Sieci i Usług,Corporate,Final Call,Poland,Warsaw
+Checked In,2017-10-17 11:45:27.999,"October 19, 2017 11:49 AM",Yes,Unisex Large,Główny Architekt Sieci i Usług,Corporate,Final Call,Poland,Warsaw
+Checked In,2017-10-17 11:53:51.996,"October 19, 2017 10:06 AM",Yes,Unisex Medium,Senior Java Developer,Corporate,Final Call,Denmark,Copenhagen
+Checked In,2017-10-17 12:10:30.003,"October 19, 2017 9:49 AM",Yes,Unisex Small,Data Scientist,Corporate,Final Call,Poland,Warsaw
+Checked In,2017-10-17 12:38:24.996,"October 19, 2017 10:00 AM",Yes,Unisex Large,data scientist,Individual,Final Call,Poland,Warsaw
+Checked In,2017-10-17 16:34:32.998,"October 19, 2017 9:32 AM",Yes,Unisex Small,Data Scientist,Individual,Final Call,Poland,Krakow
+Checked In,2017-10-18 08:50:54.997,"October 19, 2017 10:38 AM",Yes,Unisex XXL,Data Scientist,Corporate,Final Call,United Kingdom,London
+Checked In,2017-10-18 09:00:09.996,"October 19, 2017 9:29 AM",Yes,Unisex Small,Data Scientist,Corporate,Final Call,United Kingdom,London
+Checked In,2017-10-18 10:23:52.999,"October 19, 2017 9:22 AM",Yes,Unisex Large,Software Engineer,Individual,Final Call,Poland,Warsaw
+Checked In,2017-10-18 11:35:02.999,"October 19, 2017 11:49 AM",Yes,Unisex Medium,CTO,Individual,Final Call,Poland,Warsaw
+Checked In,2017-10-18 13:36:04.003,"October 19, 2017 9:56 AM",Yes,Unisex Medium,Network & Service Quality Team Leader,Corporate,Final Call,Poland,Warsaw
+Checked In,2017-10-18 13:36:50.003,"October 19, 2017 10:51 AM",Yes,Unisex Large,Data Scientist,Individual,Final Call,Poland,Warsaw
+Checked In,2017-10-18 14:08:32.997,"October 19, 2017 9:56 AM",Yes,Unisex Medium,Network Quality Sr. Specialist,Corporate,Final Call,Poland,Warsaw
+Checked In,2017-10-18 15:02:27.001,"October 19, 2017 9:56 AM",Yes,Unisex Medium,Technology consultant,Individual,Final Call,Poland,Warsaw
+Checked In,2017-10-18 15:02:27.001,"October 19, 2017 9:55 AM",Yes,Unisex Small,Technology consultant,Individual,Final Call,Poland,Warsaw
+Checked In,2017-10-18 15:26:26.002,"October 19, 2017 10:21 AM",Yes,Unisex XL,Data Scientist,Individual,Final Call,Poland,Warsaw
+Checked In,2017-10-19 07:49:25.000,"October 19, 2017 9:58 AM",,,Intern,Individual,Final Call,Poland,Warsaw
+Attending,2017-10-19 10:46:06.004,,Yes,Unisex Large,SAP BI Consultant,Corporate,Final Call,Poland,Poznan
+Attending,2017-10-19 10:46:06.004,,Yes,Unisex XL,BI Consultant,Corporate,Final Call,Poland,Poznan
