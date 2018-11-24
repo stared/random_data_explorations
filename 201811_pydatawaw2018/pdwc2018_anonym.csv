@@ -1,0 +1,436 @@
+Attendee Status,Order Date,Check-In Date,Would you like a T-Shirt?,What size?,Gender,GenderP,Participant Type,Call Type,Country,City
+Checked In,2018-08-08 11:22:33+02:00,"November 19, 2018 10:15 AM",Yes,Unisex XL,male,1.0,Individual,Early Bird,United States,New York
+Checked In,2018-08-08 22:52:01+02:00,"November 19, 2018 9:57 AM",Yes,Unisex Medium,male,1.0,Individual,Early Bird,Poland,Warsaw
+Checked In,2018-08-09 13:03:00+02:00,"November 19, 2018 9:22 AM",Yes,Unisex Medium,female,1.0,Corporate,Early Bird,Unknown Location,
+Checked In,2018-08-09 13:03:00+02:00,"November 19, 2018 12:08 PM",Yes,Unisex Small,female,1.0,Corporate,Early Bird,Unknown Location,
+Checked In,2018-08-09 13:03:00+02:00,"November 19, 2018 11:32 AM",Yes,Unisex Large,male,1.0,Corporate,Early Bird,Unknown Location,
+Checked In,2018-08-09 13:03:00+02:00,"November 19, 2018 9:20 AM",Yes,Unisex Small,female,1.0,Corporate,Early Bird,Unknown Location,
+Checked In,2018-08-09 13:03:00+02:00,"November 19, 2018 10:32 AM",Yes,Unisex Medium,male,1.0,Corporate,Early Bird,Unknown Location,
+Checked In,2018-08-09 21:57:23+02:00,"November 19, 2018 12:14 PM",Yes,Unisex XL,male,1.0,Individual,Early Bird,Poland,Dobron
+Checked In,2018-08-10 13:01:13+02:00,"November 19, 2018 9:49 AM",Yes,Unisex X-Small,female,1.0,Individual,Early Bird,Latvia,Riga
+Checked In,2018-08-10 13:01:13+02:00,"November 19, 2018 9:49 AM",Yes,Unisex XL,male,1.0,Individual,Early Bird,Latvia,Riga
+Checked In,2018-08-13 09:08:50+02:00,"November 19, 2018 8:59 AM",Yes,Unisex XL,male,0.97,Corporate,Early Bird,Poland,Wrocław
+Checked In,2018-08-13 09:08:50+02:00,"November 19, 2018 8:59 AM",Yes,Unisex XL,male,1.0,Corporate,Early Bird,Poland,Wrocław
+Checked In,2018-08-13 11:24:00+02:00,"November 19, 2018 8:16 AM",Yes,Unisex XL,male,1.0,Corporate,Early Bird,Germany,Frankfurt am Main
+Checked In,2018-08-13 11:24:00+02:00,"November 19, 2018 9:35 AM",Yes,Unisex Small,male,1.0,Corporate,Early Bird,Germany,Frankfurt am Main
+Attending,2018-08-13 12:38:45+02:00,,Yes,Unisex Large,male,0.99,Corporate,Early Bird,Poland,Łódź
+Checked In,2018-08-13 13:59:45+02:00,"November 19, 2018 8:26 AM",Yes,Unisex Large,male,1.0,Corporate,Early Bird,France,Paris
+Checked In,2018-08-14 14:16:53+02:00,"November 19, 2018 9:37 AM",Yes,Unisex XXL,male,1.0,Individual,Early Bird,Denmark,Aalborg
+Checked In,2018-08-14 16:33:56+02:00,"November 19, 2018 10:15 AM",Yes,Unisex XXL,male,1.0,Corporate,Early Bird,France,Paris
+Checked In,2018-08-14 17:27:05+02:00,"November 19, 2018 9:09 AM",Yes,Unisex Medium,male,0.98,Individual,Early Bird,Poland,Warsaw
+Checked In,2018-08-15 09:33:34+02:00,"November 19, 2018 12:33 PM",Yes,Unisex Medium,male,1.0,Individual,Early Bird,Serbia,Belgrade
+Checked In,2018-08-18 11:54:10+02:00,"November 19, 2018 9:36 AM",Yes,Unisex Medium,female,1.0,Individual,Early Bird,Poland,Warsaw
+Checked In,2018-08-19 19:17:25+02:00,"November 19, 2018 8:55 AM",Yes,Unisex Large,male,1.0,Individual,Early Bird,Poland,Warsaw
+Checked In,2018-08-20 09:50:23+02:00,"November 19, 2018 9:26 AM",Yes,Unisex Medium,male,1.0,Corporate,Early Bird,Poland,Warsaw
+Checked In,2018-08-20 09:50:23+02:00,"November 19, 2018 9:27 AM",Yes | No,Unisex Large,male,0.98,Corporate,Early Bird,Poland,Warsaw
+Checked In,2018-08-20 09:50:23+02:00,"November 19, 2018 9:57 AM",Yes,Unisex Large,male,0.99,Corporate,Early Bird,Poland,Warsaw
+Attending,2018-08-20 09:50:23+02:00,,Yes,Unisex Medium,male,1.0,Corporate,Early Bird,Poland,Warsaw
+Checked In,2018-08-20 09:50:23+02:00,"November 19, 2018 9:21 AM",Yes,Unisex Small,female,1.0,Corporate,Early Bird,Poland,Warsaw
+Checked In,2018-08-20 09:50:23+02:00,"November 19, 2018 9:37 AM",Yes,Unisex Small,female,1.0,Corporate,Early Bird,Poland,Warsaw
+Checked In,2018-08-20 13:40:13+02:00,"November 19, 2018 10:23 AM",Yes,Unisex Large,male,1.0,Individual,Early Bird,Poland,Czeladz
+Checked In,2018-08-20 15:43:10+02:00,"November 19, 2018 9:13 AM",No,,male,1.0,Corporate,Early Bird,Belgium,Diegem
+Checked In,2018-08-20 17:08:01+02:00,"November 19, 2018 8:35 AM",Yes,Unisex XL,male,1.0,Individual,Early Bird,Poland,Warsaw
+Checked In,2018-08-21 09:46:19+02:00,"November 19, 2018 9:36 AM",Yes,Unisex Medium,male,1.0,Individual,Early Bird,Denmark,Aalborg
+Checked In,2018-08-21 10:44:30+02:00,"November 19, 2018 9:08 AM",Yes,Unisex Small,male,1.0,Corporate,Early Bird,Germany,Seevetal
+Checked In,2018-08-21 10:59:53+02:00,"November 19, 2018 9:08 AM",Yes,Unisex Large,male,1.0,Corporate,Early Bird,Germany,Kiel
+Checked In,2018-08-21 15:21:23+02:00,"November 19, 2018 9:57 AM",Yes,Unisex Medium,male,1.0,Individual,Early Bird,Poland,Warsaw
+Checked In,2018-08-22 14:46:03+02:00,"November 19, 2018 9:42 AM",No,,female,0.99,Corporate,Early Bird,Poland,Warsaw
+Checked In,2018-08-22 14:46:03+02:00,"November 19, 2018 9:11 AM",No,,female,1.0,Corporate,Early Bird,Poland,Warsaw
+Checked In,2018-08-22 21:22:15+02:00,"November 19, 2018 9:07 AM",Yes,Unisex Large,male,1.0,Individual,Early Bird,Poland,Bytom
+Checked In,2018-08-23 10:38:21+02:00,"November 19, 2018 9:16 AM",Yes,Unisex Medium,male,1.0,Individual,Early Bird,Poland,Warsaw
+Checked In,2018-08-23 10:55:28+02:00,"November 19, 2018 9:03 AM",Yes,Unisex Large,male,0.99,Individual,Early Bird,Poland,Zambrów
+Not Attending,2018-08-23 12:29:52+02:00,,Yes,Unisex Large,male,1.0,Individual,Early Bird,Poland,Gliwice
+Checked In,2018-08-24 09:43:25+02:00,"November 19, 2018 9:14 AM",Yes,Unisex XL,male,0.98,Corporate,Early Bird,Unknown Location,
+Checked In,2018-08-24 13:15:20+02:00,"November 19, 2018 9:18 AM",Yes,Unisex Large,male,1.0,Individual,Early Bird,Poland,Krakow
+Checked In,2018-08-27 01:51:22+02:00,"November 19, 2018 8:52 AM",Yes,Unisex Medium,male,1.0,Individual,Early Bird,Poland,Rytro
+Checked In,2018-08-27 09:02:32+02:00,"November 19, 2018 8:51 AM",Yes,Unisex Small,male,1.0,Corporate,Early Bird,Unknown Location,
+Checked In,2018-08-27 12:34:09+02:00,"November 19, 2018 9:43 AM",Yes,Unisex Large,male,1.0,Individual,Early Bird,Poland,Krakow
+Checked In,2018-08-27 12:50:05+02:00,"November 19, 2018 10:22 AM",Yes,Unisex Medium,female,1.0,Individual,Early Bird,Poland,Czeladz
+Checked In,2018-08-28 12:26:02+02:00,"November 19, 2018 11:52 AM",Yes,Unisex Medium,,,Individual,Early Bird,Denmark,Aalborg
+Checked In,2018-08-28 13:42:15+02:00,"November 19, 2018 9:11 AM",Yes,Unisex Large,male,0.99,Corporate,Early Bird,United Kingdom,
+Checked In,2018-08-28 15:39:39+02:00,"November 19, 2018 10:29 AM",No,,male,1.0,Individual,Early Bird,Poland,Wrocław
+Checked In,2018-08-28 16:50:05+02:00,"November 19, 2018 9:38 AM",Yes,Unisex Small | Unisex Medium,female,1.0,Individual,Early Bird,United Kingdom,London
+Checked In,2018-08-28 20:37:08+02:00,"November 19, 2018 10:43 AM",Yes,Unisex X-Small,female,0.99,Corporate,Early Bird,France,Paris
+Checked In,2018-08-28 21:33:30+02:00,"November 19, 2018 9:21 AM",Yes,Unisex Medium,female,0.7,Individual,Early Bird,Poland,Golcowa
+Checked In,2018-08-28 23:42:58+02:00,"November 19, 2018 10:30 AM",Yes,Unisex Medium,male,1.0,Individual,Early Bird,Poland,
+Checked In,2018-08-29 03:57:00+02:00,"November 19, 2018 9:06 AM",No,,male,0.98,Individual,Early Bird,Poland,Białystok
+Checked In,2018-08-29 10:35:49+02:00,"November 19, 2018 8:59 AM",Yes,Unisex Large,male,1.0,Individual,Early Bird,United Kingdom,
+Checked In,2018-08-29 10:43:12+02:00,"November 19, 2018 8:27 AM",Yes,Unisex XL,male,1.0,Individual,Early Bird,United Kingdom,
+Checked In,2018-08-29 11:24:12+02:00,"November 19, 2018 9:40 AM",Yes,Unisex Large,male,0.98,Corporate,Early Bird,Poland,Warsaw
+Checked In,2018-08-29 11:38:38+02:00,"November 19, 2018 9:54 AM",Yes,Unisex Small,male,1.0,Individual,Early Bird,Poland,Białystok
+Checked In,2018-08-29 12:11:10+02:00,"November 19, 2018 9:54 AM",Yes,Unisex Large,male,1.0,Individual,Early Bird,Poland,Białystok
+Checked In,2018-08-29 12:11:40+02:00,"November 19, 2018 9:18 AM",Yes,Unisex Small,male,0.94,Corporate,Early Bird,Netherlands,Almere Stad
+Checked In,2018-08-29 13:03:19+02:00,"November 19, 2018 9:54 AM",Yes,Unisex Medium,male,1.0,Individual,Early Bird,Poland,Białystok
+Checked In,2018-08-29 13:15:45+02:00,"November 19, 2018 9:20 AM",Yes,Unisex Medium,male,1.0,Corporate,Early Bird,Poland,Warsaw
+Checked In,2018-08-29 13:15:45+02:00,"November 19, 2018 9:29 AM",No,,male,1.0,Corporate,Early Bird,Poland,Warsaw
+Checked In,2018-08-29 13:15:45+02:00,"November 19, 2018 9:43 AM",Yes,Unisex Large,male,0.99,Corporate,Early Bird,Poland,Warsaw
+Checked In,2018-08-29 13:19:18+02:00,"November 19, 2018 9:54 AM",Yes,Unisex Medium,male,0.99,Individual,Early Bird,Poland,Białystok
+Checked In,2018-08-29 14:50:11+02:00,"November 19, 2018 9:44 AM",Yes,Unisex XXL,male,1.0,Individual,Early Bird,United Kingdom,
+Checked In,2018-08-29 14:58:50+02:00,"November 19, 2018 9:41 AM",Yes,Unisex Small,female,1.0,Individual,Early Bird,Poland,Krakow
+Checked In,2018-08-29 15:03:07+02:00,"November 19, 2018 9:41 AM",Yes,Unisex Small,female,1.0,Individual,Early Bird,Poland,Krakow
+Checked In,2018-08-29 17:00:30+02:00,"November 19, 2018 9:41 AM",Yes,Unisex XL,male,0.98,Individual,Early Bird,Poland,Warsaw
+Checked In,2018-08-29 19:50:32+02:00,"November 19, 2018 9:32 AM",Yes,Unisex Medium,male,1.0,Individual,Early Bird,Poland,Białystok
+Checked In,2018-08-30 07:42:52+02:00,"November 19, 2018 9:36 AM",Yes,Unisex Large,male,1.0,Individual,Early Bird,Poland,Gliwice
+Checked In,2018-08-30 08:08:13+02:00,"November 19, 2018 8:57 AM",Yes,Unisex Large,male,0.98,Individual,Early Bird,Poland,Warsaw
+Checked In,2018-08-30 08:40:36+02:00,"November 19, 2018 9:42 AM",Yes,Unisex Small,female,1.0,Individual,Early Bird,Switzerland,Zurich
+Checked In,2018-08-30 10:30:59+02:00,"November 19, 2018 9:37 AM",Yes,Unisex Medium,male,1.0,Individual,Early Bird,Poland,Lublin
+Checked In,2018-08-30 11:31:36+02:00,"November 19, 2018 12:17 PM",Yes,Unisex Large,male,1.0,Individual,Early Bird,Poland,Warsaw
+Checked In,2018-08-30 11:42:54+02:00,"November 19, 2018 9:39 AM",Yes,Unisex Large,male,1.0,Individual,Early Bird,Netherlands,Leidschendam
+Checked In,2018-08-30 11:42:54+02:00,"November 19, 2018 9:39 AM",No,,male,1.0,Individual,Early Bird,Netherlands,Leidschendam
+Checked In,2018-08-30 11:42:54+02:00,"November 19, 2018 9:39 AM",Yes,Unisex Large,male,1.0,Individual,Early Bird,Netherlands,Leidschendam
+Checked In,2018-08-30 11:42:54+02:00,"November 19, 2018 9:39 AM",Yes,Unisex Large,male,1.0,Individual,Early Bird,Netherlands,Leidschendam
+Checked In,2018-08-30 11:42:54+02:00,"November 19, 2018 9:39 AM",Yes,Unisex Large,male,1.0,Individual,Early Bird,Netherlands,Leidschendam
+Checked In,2018-08-30 12:54:19+02:00,"November 19, 2018 9:54 AM",Yes,Unisex Large,male,1.0,Individual,Early Bird,Poland,Białystok
+Checked In,2018-08-30 14:22:20+02:00,"November 19, 2018 9:01 AM",Yes,Unisex XL,male,1.0,Corporate,Early Bird,Poland,Wrocław
+Checked In,2018-08-30 14:22:20+02:00,"November 19, 2018 9:01 AM",Yes,Unisex Large,male,1.0,Corporate,Early Bird,Poland,Wrocław
+Checked In,2018-08-30 14:22:20+02:00,"November 19, 2018 9:02 AM",Yes,Unisex XL,male,1.0,Corporate,Early Bird,Poland,Wrocław
+Checked In,2018-08-30 14:50:04+02:00,"November 19, 2018 10:00 AM",Yes,Unisex XL,male,1.0,Corporate,Early Bird,Poland,Warsaw
+Checked In,2018-08-30 14:50:04+02:00,"November 19, 2018 9:16 AM",Yes,Unisex Large,male,1.0,Corporate,Early Bird,Poland,Warsaw
+Checked In,2018-08-30 14:50:04+02:00,"November 19, 2018 9:30 AM",Yes,Unisex XXL,male,1.0,Corporate,Early Bird,Poland,Warsaw
+Checked In,2018-08-30 14:50:04+02:00,"November 19, 2018 9:30 AM",Yes,Unisex Medium,,,Corporate,Early Bird,Poland,Warsaw
+Checked In,2018-08-30 14:51:46+02:00,"November 19, 2018 9:04 AM",Yes,Unisex Medium,male,1.0,Corporate,Early Bird,Poland,Gliwice
+Checked In,2018-08-30 16:56:23+02:00,"November 19, 2018 9:26 AM",Yes,Unisex Medium,male,1.0,Corporate,Early Bird,Portugal,Lisbon
+Checked In,2018-08-30 16:56:23+02:00,"November 19, 2018 9:25 AM",Yes,Unisex Medium,male,1.0,Corporate,Early Bird,Portugal,Lisbon
+Checked In,2018-08-30 16:56:23+02:00,"November 19, 2018 9:28 AM",Yes,Unisex Large,male,1.0,Corporate,Early Bird,Portugal,Lisbon
+Checked In,2018-08-31 09:15:34+02:00,"November 19, 2018 9:52 AM",Yes,Unisex X-Small,female,0.99,Corporate,Early Bird,Poland,Warsaw
+Checked In,2018-08-31 09:53:38+02:00,"November 19, 2018 9:03 AM",Yes,Unisex Large,,,Corporate,Early Bird,Norway,Oslo
+Checked In,2018-08-31 09:53:38+02:00,"November 19, 2018 9:02 AM",Yes,Unisex Small,female,1.0,Corporate,Early Bird,Norway,Oslo
+Checked In,2018-08-31 09:53:38+02:00,"November 19, 2018 9:03 AM",Yes,Unisex Large,male,1.0,Corporate,Early Bird,Norway,Oslo
+Checked In,2018-08-31 09:53:38+02:00,"November 19, 2018 9:03 AM",Yes,Unisex Large,male,1.0,Corporate,Early Bird,Norway,Oslo
+Checked In,2018-08-31 10:18:19+02:00,"November 19, 2018 9:55 AM",Yes,Unisex Small,female,1.0,Corporate,Early Bird,Poland,Warsaw
+Checked In,2018-08-31 10:28:12+02:00,"November 19, 2018 9:53 AM",Yes,Unisex Medium,female,0.99,Corporate,Early Bird,United Kingdom,London
+Checked In,2018-09-01 09:25:55+02:00,"November 19, 2018 9:41 AM",Yes,Unisex Small,male,1.0,Individual,Regular,Poland,
+Checked In,2018-09-01 10:24:53+02:00,"November 19, 2018 9:26 AM",Yes,Unisex Medium,male,1.0,Individual,Regular,Poland,Bytom
+Checked In,2018-09-01 10:30:42+02:00,"November 19, 2018 9:31 AM",Yes,Unisex Small,female,1.0,Individual,Regular,Poland,Warsaw
+Checked In,2018-09-01 19:05:37+02:00,"November 19, 2018 9:19 AM",,,female,1.0,Individual,Regular,Poland,Warsaw
+Checked In,2018-09-03 01:50:30+02:00,"November 19, 2018 11:49 AM",No,,male,1.0,Individual,Regular,Poland,
+Checked In,2018-09-03 10:23:58+02:00,"November 19, 2018 8:18 AM",Yes,Unisex Large | Unisex XL,male,0.52,Individual,Regular,Germany,
+Checked In,2018-09-03 10:23:58+02:00,"November 19, 2018 8:19 AM",Yes,Unisex Large | Unisex XL,,,Individual,Regular,Germany,
+Checked In,2018-09-07 13:45:06+02:00,"November 19, 2018 9:09 AM",No,,female,0.99,Individual,Regular,Lithuania,Vilnius
+Checked In,2018-09-07 13:45:06+02:00,"November 19, 2018 9:47 AM",No,,male,0.98,Individual,Regular,Lithuania,Vilnius
+Checked In,2018-09-07 13:45:06+02:00,"November 19, 2018 9:09 AM",No,,,,Individual,Regular,Lithuania,Vilnius
+Checked In,2018-09-07 13:45:06+02:00,"November 19, 2018 9:10 AM",No,,female,1.0,Individual,Regular,Lithuania,Vilnius
+Checked In,2018-09-07 15:53:32+02:00,"November 19, 2018 8:49 AM",Yes,Unisex Medium,male,0.81,Corporate,Regular,Lithuania,Vilnius
+Checked In,2018-09-07 15:53:32+02:00,"November 19, 2018 8:48 AM",Yes,Unisex Large,male,1.0,Corporate,Regular,Lithuania,Vilnius
+Not Attending,2018-09-08 11:03:47+02:00,,Yes,Unisex Large,,,Corporate,Regular,Nigeria,Lagos
+Checked In,2018-09-10 19:42:04+02:00,"November 19, 2018 9:10 AM",Yes,Unisex Medium,male,1.0,Individual,Regular,Czech Republic,Ostrov
+Checked In,2018-09-10 19:55:02+02:00,"November 19, 2018 9:10 AM",Yes,Unisex Medium,,,Individual,Regular,Portugal,Porto
+Checked In,2018-09-11 11:29:34+02:00,"November 19, 2018 9:37 AM",No,,female,0.99,Individual,Regular,Poland,Warsaw
+Checked In,2018-09-11 17:40:50+02:00,"November 19, 2018 10:00 AM",Yes,Unisex Medium,female,1.0,Corporate,Regular,Poland,Poznan
+Checked In,2018-09-11 18:28:11+02:00,"November 19, 2018 10:00 AM",Yes,Unisex Large,male,1.0,Corporate,Regular,Poland,Poznan
+Checked In,2018-09-13 09:35:31+02:00,"November 19, 2018 8:53 AM",Yes,Unisex Medium,male,1.0,Corporate,Regular,Unknown Location,
+Checked In,2018-09-13 16:25:17+02:00,"November 19, 2018 9:22 AM",Yes,Unisex Medium,female,1.0,Individual,Regular,Poland,Chojnice
+Checked In,2018-09-14 18:37:23+02:00,"November 19, 2018 10:55 AM",Yes,Unisex Medium,male,1.0,Individual,Regular,United States,Lebanon
+Checked In,2018-09-17 09:15:45+02:00,"November 19, 2018 10:39 AM",Yes,Unisex XXL,male,0.98,Individual,Regular,Poland,Warsaw
+Checked In,2018-09-17 13:00:14+02:00,"November 19, 2018 11:12 AM",No,,male,1.0,Corporate,Regular,Poland,Warsaw
+Checked In,2018-09-17 14:25:18+02:00,"November 19, 2018 10:12 AM",Yes | No,,,,Corporate,Regular,Poland,Szczecin
+Checked In,2018-09-18 12:40:24+02:00,"November 19, 2018 8:20 AM",No,,male,1.0,Individual,Regular,Poland,Warsaw
+Checked In,2018-09-18 13:03:38+02:00,"November 19, 2018 10:21 AM",Yes,Unisex Large,male,1.0,Individual,Regular,Ukraine,Kyiv
+Checked In,2018-09-19 14:28:31+02:00,"November 19, 2018 2:11 PM",Yes,Unisex Large,male,1.0,Individual,Regular,Poland,Wrocław
+Checked In,2018-09-19 17:01:39+02:00,"November 19, 2018 1:41 PM",Yes,Unisex Large,male,0.98,Individual,Regular,Poland,Warsaw
+Checked In,2018-09-20 10:12:26+02:00,"November 19, 2018 10:03 AM",No,,female,0.99,Individual,Regular,Poland,Warsaw
+Checked In,2018-09-21 10:32:20+02:00,"November 19, 2018 10:16 AM",Yes,Unisex Medium,male,1.0,Corporate,Regular,Poland,Wrocław
+Checked In,2018-09-21 13:24:49+02:00,"November 19, 2018 8:53 AM",No,,male,1.0,Corporate,Regular,Unknown Location,
+Checked In,2018-09-24 16:13:21+02:00,"November 19, 2018 10:21 AM",,,male,1.0,Individual,Regular,Ukraine,Kyiv
+Checked In,2018-09-25 10:03:21+02:00,"November 19, 2018 9:24 AM",Yes,Unisex Medium,female,0.96,Individual,Regular,France,Brindas
+Checked In,2018-09-25 14:46:47+02:00,"November 19, 2018 10:26 AM",Yes,Unisex X-Small,female,0.99,Individual,Regular,United States,Somerville
+Checked In,2018-09-25 16:01:22+02:00,"November 19, 2018 9:15 AM",Yes,Unisex Medium,male,1.0,Individual,Regular,United States,Troy
+Checked In,2018-09-26 09:45:25+02:00,"November 19, 2018 9:36 AM",Yes,Unisex Medium,male,0.97,Individual,Regular,Poland,Tychy
+Checked In,2018-09-26 10:07:03+02:00,"November 19, 2018 9:43 AM",Yes,Unisex XXL,female,1.0,Corporate,Regular,Poland,Warsaw
+Checked In,2018-09-27 10:10:30+02:00,"November 19, 2018 8:41 AM",No,,female,0.99,Individual,Regular,Unknown Location,
+Checked In,2018-09-27 15:50:34+02:00,"November 19, 2018 8:57 AM",Yes,Unisex Medium,female,0.54,Individual,Regular,Unknown Location,
+Checked In,2018-09-27 17:47:09+02:00,"November 20, 2018 9:40 AM",Yes,Unisex Medium,male,0.89,Individual,Regular,United States,Brooklyn
+Attending,2018-09-27 22:37:05+02:00,,Yes,Unisex Large,male,1.0,Individual,Regular,United Kingdom,London
+Checked In,2018-09-28 14:03:57+02:00,"November 19, 2018 8:45 AM",Yes,Unisex Medium,female,0.99,Individual,Regular,Poland,Warsaw
+Checked In,2018-09-28 17:22:35+02:00,"November 19, 2018 9:53 AM",Yes,Unisex Medium,male,0.75,Individual,Regular,Poland,Wrocław
+Checked In,2018-09-29 16:47:15+02:00,"November 19, 2018 9:23 AM",Yes,Unisex Large,male,1.0,Individual,Regular,Poland,Warsaw
+Checked In,2018-10-01 10:33:30+02:00,"November 19, 2018 8:52 AM",Yes,Unisex Small,female,1.0,Individual,Regular,Unknown Location,
+Attending,2018-10-01 11:56:40+02:00,,Yes,Unisex XL,male,1.0,Corporate,Regular,Poland,Warsaw
+Checked In,2018-10-01 11:56:40+02:00,"November 19, 2018 9:07 AM",Yes,Unisex Large,male,1.0,Corporate,Regular,Poland,Warsaw
+Checked In,2018-10-01 11:56:40+02:00,"November 19, 2018 9:17 AM",Yes,Unisex Large,male,1.0,Corporate,Regular,Poland,Warsaw
+Checked In,2018-10-01 12:54:32+02:00,"November 19, 2018 11:04 AM",Yes,Unisex Medium,male,0.98,Individual,Regular,Poland,Warsaw
+Checked In,2018-10-02 10:37:36+02:00,"November 19, 2018 8:41 AM",Yes,Unisex Medium,male,1.0,Individual,Regular,Poland,Warsaw
+Checked In,2018-10-03 12:23:42+02:00,"November 19, 2018 10:22 AM",Yes,Unisex XL,female,1.0,Corporate,Regular,Poland,Boguszów-Gorce
+Checked In,2018-10-03 12:23:42+02:00,"November 19, 2018 9:25 AM",Yes,Unisex Large,male,1.0,Corporate,Regular,Poland,Boguszów-Gorce
+Checked In,2018-10-03 12:23:42+02:00,"November 19, 2018 9:22 AM",Yes,Unisex Large,female,1.0,Corporate,Regular,Poland,Boguszów-Gorce
+Checked In,2018-10-03 12:57:37+02:00,"November 19, 2018 9:21 AM",Yes,Unisex Large,male,1.0,Corporate,Regular,Poland,Krakow
+Checked In,2018-10-03 16:27:58+02:00,"November 19, 2018 11:54 AM",Yes,Unisex Medium,,,Corporate,Regular,Netherlands,Amsterdam
+Checked In,2018-10-03 21:06:42+02:00,"November 19, 2018 8:31 AM",Yes,Unisex X-Small,male,0.99,Individual,Regular,Poland,
+Checked In,2018-10-04 11:05:49+02:00,"November 19, 2018 9:44 AM",No,,male,1.0,Corporate,Regular,Malta,Valletta
+Checked In,2018-10-04 11:05:49+02:00,"November 19, 2018 9:45 AM",No,,male,0.98,Corporate,Regular,Malta,Valletta
+Checked In,2018-10-04 11:05:49+02:00,"November 19, 2018 9:45 AM",No,,male,1.0,Corporate,Regular,Malta,Valletta
+Checked In,2018-10-04 11:05:49+02:00,"November 19, 2018 9:45 AM",No,,male,0.98,Corporate,Regular,Malta,Valletta
+Checked In,2018-10-04 11:05:49+02:00,"November 19, 2018 9:44 AM",No,,male,1.0,Corporate,Regular,Malta,Valletta
+Checked In,2018-10-05 09:12:11+02:00,"November 19, 2018 9:46 AM",Yes,Unisex Medium,male,1.0,Corporate,Regular,Poland,Warsaw
+Checked In,2018-10-05 12:01:07+02:00,"November 19, 2018 9:32 AM",Yes,Unisex XL,male,1.0,Individual,Regular,Poland,Białystok
+Checked In,2018-10-05 12:16:33+02:00,"November 19, 2018 9:32 AM",Yes,Unisex Large,male,1.0,Individual,Regular,Poland,Białystok
+Checked In,2018-10-05 12:16:33+02:00,"November 19, 2018 9:31 AM",Yes,Unisex Large,male,1.0,Individual,Regular,Poland,Białystok
+Checked In,2018-10-05 12:16:33+02:00,"November 19, 2018 9:32 AM",Yes,Unisex Medium,male,1.0,Individual,Regular,Poland,Białystok
+Checked In,2018-10-06 11:29:43+02:00,"November 19, 2018 9:12 AM",Yes,Unisex Medium,male,1.0,Individual,Regular,United Kingdom,New Cross
+Checked In,2018-10-06 19:40:30+02:00,"November 19, 2018 9:21 AM",Yes,Unisex Medium,female,0.86,Corporate,Regular,Denmark,Copenhagen
+Checked In,2018-10-06 19:49:28+02:00,"November 19, 2018 9:21 AM",Yes,Unisex Medium,male,0.99,Corporate,Regular,Denmark,Copenhagen
+Checked In,2018-10-08 10:56:45+02:00,"November 19, 2018 9:29 AM",Yes,Unisex X-Small,female,0.99,Corporate,Regular,Poland,Warsaw
+Checked In,2018-10-08 11:03:56+02:00,"November 19, 2018 9:33 AM",No,,male,1.0,Individual,Regular,Poland,Warsaw
+Checked In,2018-10-08 16:00:37+02:00,"November 19, 2018 9:21 AM",Yes,Unisex XL,male,1.0,Corporate,Regular,United Kingdom,Shepherds Bush
+Checked In,2018-10-08 16:00:37+02:00,"November 19, 2018 8:42 AM",Yes,Unisex Medium,male,0.75,Corporate,Regular,United Kingdom,Shepherds Bush
+Checked In,2018-10-09 11:41:46+02:00,"November 19, 2018 9:19 AM",Yes,Unisex Large,male,1.0,Corporate,Regular,Poland,Poznan
+Checked In,2018-10-10 11:41:37+02:00,"November 19, 2018 9:49 AM",Yes,Unisex Medium,female,1.0,Individual,Regular,Poland,Warsaw
+Checked In,2018-10-11 11:40:30+02:00,"November 19, 2018 8:52 AM",Yes,Unisex XL,male,1.0,Individual,Regular,Spain,Las Palmas de Gran Canaria
+Checked In,2018-10-11 11:44:21+02:00,"November 19, 2018 8:27 AM",Yes,Unisex Large,male,1.0,Corporate,Regular,Poland,Warsaw
+Checked In,2018-10-11 14:19:35+02:00,"November 19, 2018 9:25 AM",No,,male,1.0,Individual,Regular,Poland,Warsaw
+Checked In,2018-10-12 14:17:03+02:00,"November 19, 2018 9:04 AM",Yes,Unisex Small,male,1.0,Corporate,Regular,Poland,Poznan
+Checked In,2018-10-15 08:13:51+02:00,"November 19, 2018 9:03 AM",Yes,Unisex XL,male,1.0,Corporate,Regular,France,Paris
+Checked In,2018-10-15 08:49:36+02:00,"November 19, 2018 9:21 AM",Yes,Unisex Medium,,,Corporate,Regular,Norway,Oslo
+Checked In,2018-10-15 09:21:33+02:00,"November 19, 2018 8:53 AM",Yes,Unisex Medium,male,1.0,Corporate,Regular,Poland,Poznan
+Checked In,2018-10-16 11:30:37+02:00,"November 19, 2018 9:05 AM",No,,male,1.0,Corporate,Regular,Germany,Düsseldorf
+Checked In,2018-10-16 11:30:37+02:00,"November 19, 2018 9:05 AM",No,,male,0.99,Corporate,Regular,Germany,Düsseldorf
+Checked In,2018-10-16 11:51:40+02:00,"November 19, 2018 9:34 AM",Yes,Unisex Large,male,1.0,Corporate,Regular,Poland,Poznan
+Checked In,2018-10-16 14:47:24+02:00,"November 19, 2018 9:02 AM",Yes,Unisex XL,male,1.0,Individual,Regular,Poland,Gliwice
+Checked In,2018-10-16 14:48:08+02:00,"November 19, 2018 9:02 AM",Yes,Unisex Medium,male,1.0,Individual,Regular,Poland,Gliwice
+Checked In,2018-10-16 21:31:08+02:00,"November 19, 2018 11:05 AM",Yes,Unisex Small,female,1.0,Individual,Regular,Poland,Warsaw
+Checked In,2018-10-17 11:31:33+02:00,"November 19, 2018 10:00 AM",Yes,Unisex Large,male,1.0,Individual,Regular,Poland,Warsaw
+Checked In,2018-10-17 12:43:08+02:00,"November 19, 2018 9:02 AM",Yes,Unisex Medium,male,1.0,Corporate,Regular,Poland,Gliwice
+Checked In,2018-10-17 15:21:33+02:00,"November 19, 2018 9:02 AM",Yes,Unisex Small,male,0.99,Individual,Regular,Poland,Bytom
+Checked In,2018-10-17 15:23:23+02:00,"November 19, 2018 8:44 AM",Yes,Unisex Medium,male,1.0,Corporate,Regular,Poland,Krakow
+Checked In,2018-10-17 15:23:23+02:00,"November 19, 2018 8:44 AM",Yes,Unisex Small,male,1.0,Corporate,Regular,Poland,Krakow
+Checked In,2018-10-17 15:23:23+02:00,"November 19, 2018 8:44 AM",Yes,Unisex Large,male,1.0,Corporate,Regular,Poland,Krakow
+Checked In,2018-10-18 10:31:51+02:00,"November 19, 2018 9:22 AM",Yes,Unisex XL,male,1.0,Individual,Regular,Poland,Warsaw
+Checked In,2018-10-18 11:06:57+02:00,"November 19, 2018 9:49 AM",Yes,Unisex Small,female,1.0,Corporate,Regular,Poland,Wrocław
+Checked In,2018-10-18 11:57:18+02:00,"November 19, 2018 9:30 AM",No,,male,1.0,Corporate,Regular,Germany,Düsseldorf
+Checked In,2018-10-18 11:57:18+02:00,"November 19, 2018 9:31 AM",Yes | No,Unisex Large,male,1.0,Corporate,Regular,Germany,Düsseldorf
+Checked In,2018-10-18 11:57:18+02:00,"November 19, 2018 9:34 AM",No,,male,1.0,Corporate,Regular,Germany,Düsseldorf
+Checked In,2018-10-18 12:53:46+02:00,"November 19, 2018 9:49 AM",No,,male,1.0,Individual,Regular,United Kingdom,Ware
+Checked In,2018-10-18 12:54:42+02:00,"November 19, 2018 9:07 AM",Yes,Unisex Large,male,1.0,Individual,Regular,Poland,Gliwice
+Checked In,2018-10-18 12:57:41+02:00,"November 20, 2018 9:07 AM",Yes,Unisex Medium,male,1.0,Individual,Regular,Poland,Poznan
+Attending,2018-10-18 12:59:06+02:00,,Yes,Unisex XL,female,0.7,Individual,Regular,Poland,Poznan
+Checked In,2018-10-18 13:00:04+02:00,"November 19, 2018 9:35 AM",Yes,Unisex XL,male,1.0,Corporate,Regular,Poland,Gliwice
+Checked In,2018-10-18 13:00:04+02:00,"November 19, 2018 9:27 AM",No,,male,0.98,Corporate,Regular,Poland,Gliwice
+Checked In,2018-10-18 13:02:24+02:00,"November 19, 2018 9:42 AM",Yes,Unisex Medium,male,1.0,Individual,Regular,Poland,Warsaw
+Checked In,2018-10-18 13:07:25+02:00,"November 19, 2018 10:14 AM",Yes,Unisex X-Small,female,0.99,Corporate,Regular,Italy,Mogliano Veneto
+Attending,2018-10-18 13:12:40+02:00,,Yes,Unisex Small,,,Individual,Regular,Poland,Warsaw
+Checked In,2018-10-18 13:25:27+02:00,"November 19, 2018 9:16 AM",Yes,Unisex Medium,male,1.0,Individual,Regular,Poland,Krakow
+Checked In,2018-10-18 13:29:32+02:00,"November 19, 2018 9:38 AM",Yes,Unisex Small,female,0.99,Individual,Regular,Poland,Warsaw
+Checked In,2018-10-18 13:43:01+02:00,"November 20, 2018 3:56 PM",Yes,Unisex Medium,male,1.0,Individual,Regular,Czech Republic,Prague
+Checked In,2018-10-18 13:44:00+02:00,"November 22, 2018 9:53 PM",Yes,Unisex Medium,male,1.0,Individual,Regular,Sweden,Huddinge
+Checked In,2018-10-18 13:56:01+02:00,"November 19, 2018 9:49 AM",Yes,Unisex XL,male,0.98,Individual,Regular,Poland,Warsaw
+Checked In,2018-10-18 14:02:55+02:00,"November 19, 2018 9:18 AM",Yes,Unisex Small,female,1.0,Corporate,Regular,Unknown Location,
+Checked In,2018-10-18 14:02:55+02:00,"November 19, 2018 9:52 AM",Yes,Unisex X-Small,female,0.99,Corporate,Regular,Unknown Location,
+Checked In,2018-10-18 14:24:48+02:00,"November 19, 2018 10:14 AM",Yes,Unisex Medium,female,1.0,Individual,Regular,Italy,Milan
+Checked In,2018-10-18 15:35:35+02:00,"November 19, 2018 10:01 AM",Yes,Unisex Small,male,1.0,Individual,Regular,United Kingdom,London
+Checked In,2018-10-18 18:51:07+02:00,"November 19, 2018 10:23 AM",Yes,Unisex Medium,male,1.0,Individual,Regular,Poland,Warsaw
+Checked In,2018-10-18 20:19:43+02:00,"November 19, 2018 9:42 AM",Yes,Unisex Medium,female,1.0,Individual,Regular,Poland,Wrocław
+Checked In,2018-10-18 20:25:34+02:00,"November 19, 2018 11:40 AM",No,,male,1.0,Individual,Regular,Poland,Lublin
+Checked In,2018-10-18 22:27:41+02:00,"November 19, 2018 9:08 AM",Yes,Unisex Large,male,1.0,Corporate,Regular,Poland,Warsaw
+Checked In,2018-10-18 22:48:28+02:00,"November 20, 2018 11:00 AM",Yes,Unisex Medium,male,1.0,Individual,Regular,Poland,Bledzew
+Checked In,2018-10-19 07:33:27+02:00,"November 19, 2018 9:31 AM",Yes,Unisex Large | Unisex XL,male,1.0,Individual,Regular,Germany,Berlin
+Attending,2018-10-19 10:05:54+02:00,,Yes,Unisex Small | Unisex Medium,female,0.7,Individual,Regular,Italy,Modena
+Checked In,2018-10-19 11:22:11+02:00,"November 19, 2018 8:13 AM",Yes,Unisex XL,male,1.0,Corporate,Regular,Poland,Warsaw
+Checked In,2018-10-19 11:22:11+02:00,"November 19, 2018 8:40 AM",Yes,Unisex Medium,female,1.0,Corporate,Regular,Poland,Warsaw
+Checked In,2018-10-19 11:23:01+02:00,"November 19, 2018 11:59 AM",Yes,Unisex Large,male,0.99,Individual,Regular,Poland,Warsaw
+Checked In,2018-10-19 18:37:27+02:00,"November 19, 2018 11:52 AM",Yes,Unisex XL,male,1.0,Individual,Regular,Poland,Warsaw
+Checked In,2018-10-19 22:51:52+02:00,"November 19, 2018 9:13 AM",No,,male,1.0,Individual,Regular,Poland,Warsaw
+Checked In,2018-10-20 08:13:20+02:00,"November 20, 2018 9:04 AM",Yes,Unisex Medium,male,1.0,Individual,Regular,Poland,Poznan
+Checked In,2018-10-20 20:04:57+02:00,"November 19, 2018 9:28 AM",Yes,Unisex Large,male,1.0,Individual,Regular,Poland,Warsaw
+Attending,2018-10-22 08:13:16+02:00,,Yes,Unisex Small,male,0.99,Individual,Regular,Italy,Modena
+Checked In,2018-10-22 08:45:32+02:00,"November 19, 2018 9:25 AM",No,,female,1.0,Corporate,Regular,Poland,Warsaw
+Checked In,2018-10-22 12:59:17+02:00,"November 19, 2018 9:22 AM",Yes,Unisex XL,male,1.0,Individual,Regular,Poland,
+Checked In,2018-10-22 13:21:07+02:00,"November 19, 2018 9:58 AM",Yes,Unisex Large,male,0.99,Individual,Regular,Poland,Warsaw
+Checked In,2018-10-22 15:37:39+02:00,"November 19, 2018 9:20 AM",No,,male,1.0,Corporate,Regular,Netherlands,Amsterdam
+Checked In,2018-10-22 16:33:46+02:00,"November 19, 2018 9:34 AM",Yes,Unisex Large,female,1.0,Individual,Regular,Poland,Podkowa Leśna
+Checked In,2018-10-23 08:34:17+02:00,"November 19, 2018 9:06 AM",Yes,Unisex XL,male,1.0,Corporate,Regular,Germany,Erlangen
+Checked In,2018-10-23 08:36:51+02:00,"November 19, 2018 9:06 AM",Yes,Unisex Large,male,1.0,Corporate,Regular,Germany,Erlangen
+Checked In,2018-10-23 09:22:59+02:00,"November 19, 2018 8:51 AM",No,,female,1.0,Corporate,Regular,Switzerland,Lausanne
+Checked In,2018-10-23 10:09:13+02:00,"November 19, 2018 9:48 AM",Yes,Unisex Medium,male,1.0,Corporate,Regular,Netherlands,Tilburg
+Checked In,2018-10-23 15:37:17+02:00,"November 19, 2018 9:35 AM",Yes,Unisex XL,male,1.0,Corporate,Regular,Poland,Malbork
+Checked In,2018-10-23 15:37:17+02:00,"November 19, 2018 8:01 AM",Yes,Unisex Small,female,0.99,Corporate,Regular,Poland,Malbork
+Checked In,2018-10-23 16:23:07+02:00,"November 19, 2018 9:15 AM",Yes,Unisex XL,male,1.0,Individual,Regular,Poland,Krakow
+Checked In,2018-10-23 18:56:11+02:00,"November 19, 2018 9:40 AM",Yes,Unisex Small,male,1.0,Individual,Regular,Germany,Chemnitz
+Checked In,2018-10-23 22:37:21+02:00,"November 19, 2018 9:22 AM",Yes,Unisex XL,male,1.0,Individual,Regular,Poland,Warsaw
+Checked In,2018-10-23 23:23:24+02:00,"November 19, 2018 10:09 AM",Yes | No,Unisex Large,male,1.0,Individual,Regular,Poland,Toruń
+Checked In,2018-10-24 09:56:39+02:00,"November 19, 2018 9:11 AM",Yes,Unisex Large,male,1.0,Individual,Regular,Poland,Warsaw
+Checked In,2018-10-24 09:56:39+02:00,"November 19, 2018 9:11 AM",Yes,Unisex XXL,male,0.99,Individual,Regular,Poland,Warsaw
+Attending,2018-10-24 10:08:02+02:00,,Yes,Unisex Medium | Unisex Large,male,1.0,Individual,Regular,Germany,Berlin
+Checked In,2018-10-24 11:28:16+02:00,"November 19, 2018 9:48 AM",Yes,Unisex Medium,female,0.99,Individual,Regular,United Kingdom,Enfield Town
+Checked In,2018-10-24 13:55:21+02:00,"November 19, 2018 9:34 AM",Yes,Unisex Large,male,1.0,Corporate,Regular,Ireland,
+Checked In,2018-10-24 15:47:15+02:00,"November 19, 2018 9:42 AM",Yes,Unisex XL,male,0.6,Corporate,Regular,Ireland,
+Checked In,2018-10-24 16:55:15+02:00,"November 19, 2018 9:22 AM",No,,female,1.0,Corporate,Regular,Poland,Warsaw
+Checked In,2018-10-24 17:07:33+02:00,"November 19, 2018 8:07 AM",Yes,Unisex Medium,male,1.0,Individual,Regular,United Kingdom,
+Checked In,2018-10-24 17:26:50+02:00,"November 19, 2018 9:21 AM",Yes,Unisex Medium,male,1.0,Individual,Regular,Poland,Warsaw
+Checked In,2018-10-24 18:39:06+02:00,"November 19, 2018 9:35 AM",Yes,Unisex Medium,male,1.0,Individual,Regular,Sweden,Gothenburg
+Checked In,2018-10-24 19:42:14+02:00,"November 19, 2018 9:38 AM",Yes,Unisex Medium,male,1.0,Individual,Regular,Poland,Warsaw
+Checked In,2018-10-24 19:42:16+02:00,"November 19, 2018 2:10 PM",,,female,1.0,Individual,Regular,Poland,Warsaw
+Attending,2018-10-25 08:47:14+02:00,,Yes,Unisex Medium,male,1.0,Individual,Regular,Italy,Modena
+Checked In,2018-10-25 09:40:54+02:00,"November 19, 2018 9:47 AM",Yes,Unisex XXL,,,Individual,Regular,Poland,Warsaw
+Checked In,2018-10-25 10:22:42+02:00,"November 19, 2018 10:01 AM",Yes,Unisex Medium,male,1.0,Individual,Regular,Germany,Leverkusen
+Checked In,2018-10-25 10:33:43+02:00,"November 19, 2018 9:49 AM",Yes,Unisex Medium,male,0.97,Corporate,Regular,Poland,Warsaw
+Checked In,2018-10-25 10:33:43+02:00,"November 19, 2018 9:11 AM",Yes,Unisex Medium,male,1.0,Corporate,Regular,Poland,Warsaw
+Checked In,2018-10-25 10:33:43+02:00,"November 19, 2018 9:23 AM",Yes,Unisex Medium,male,1.0,Corporate,Regular,Poland,Warsaw
+Checked In,2018-10-25 10:54:35+02:00,"November 19, 2018 12:11 PM",Yes,Unisex Medium,male,1.0,Individual,Regular,Poland,Warsaw
+Checked In,2018-10-25 12:06:03+02:00,"November 19, 2018 10:16 AM",Yes,Unisex Small,male,1.0,Individual,Regular,Poland,Warsaw
+Attending,2018-10-25 12:39:52+02:00,,Yes,Unisex Large,,,Corporate,Regular,Poland,Krakow
+Checked In,2018-10-25 14:38:18+02:00,"November 19, 2018 8:51 AM",Yes,Unisex Medium,male,1.0,Corporate,Regular,Poland,Krakow
+Checked In,2018-10-25 14:47:12+02:00,"November 19, 2018 9:23 AM",Yes | No,Unisex Medium,male,0.99,Corporate,Regular,Switzerland,Basel
+Checked In,2018-10-25 22:02:20+02:00,"November 19, 2018 8:45 AM",Yes,Unisex XL,male,0.97,Individual,Regular,Poland,Warsaw
+Attending,2018-10-26 10:22:50+02:00,,Yes,Unisex Medium,male,1.0,Individual,Regular,United States,Brownsville
+Checked In,2018-10-26 10:44:41+02:00,"November 19, 2018 10:16 AM",Yes,Unisex Large,male,1.0,Corporate,Regular,Poland,Warsaw
+Attending,2018-10-26 11:13:09+02:00,,Yes,Unisex Large,male,1.0,Individual,Regular,Poland,Warsaw
+Checked In,2018-10-26 12:31:24+02:00,"November 19, 2018 9:32 AM",Yes,Unisex Medium,male,1.0,Individual,Regular,Poland,Białystok
+Checked In,2018-10-26 13:01:00+02:00,"November 19, 2018 9:52 AM",Yes,Unisex Large,male,1.0,Individual,Regular,Poland,Warsaw
+Attending,2018-10-26 13:51:46+02:00,,Yes,Unisex Medium,male,1.0,Individual,Regular,Poland,Warsaw
+Checked In,2018-10-26 17:50:48+02:00,"November 19, 2018 9:08 AM",No,,male,1.0,Individual,Regular,Poland,Warsaw
+Checked In,2018-10-26 20:25:25+02:00,"November 19, 2018 9:40 AM",Yes,Unisex Medium,male,1.0,Individual,Regular,Poland,Warsaw
+Checked In,2018-10-27 12:07:52+02:00,"November 19, 2018 9:39 AM",Yes,Unisex Large,male,1.0,Individual,Regular,Poland,Poznan
+Checked In,2018-10-28 15:53:10+01:00,"November 19, 2018 9:24 AM",Yes,Unisex Medium,male,1.0,Corporate,Regular,Sweden,Stockholm
+Checked In,2018-10-28 19:52:13+01:00,"November 19, 2018 9:33 AM",Yes,Unisex X-Small,female,1.0,Individual,Regular,Germany,Stuttgart
+Checked In,2018-10-28 19:55:28+01:00,"November 19, 2018 10:21 AM",Yes,Unisex Large,male,1.0,Individual,Regular,Ukraine,Kyiv
+Checked In,2018-10-28 21:34:26+01:00,"November 19, 2018 9:50 AM",Yes,Unisex Medium,male,1.0,Individual,Regular,Switzerland,Échallens
+Checked In,2018-10-28 22:19:03+01:00,"November 19, 2018 9:30 AM",Yes,Unisex Large,male,0.99,Individual,Regular,Poland,Warsaw
+Checked In,2018-10-29 08:42:37+01:00,"November 19, 2018 9:16 AM",Yes,Unisex Medium,male,1.0,Individual,Regular,Poland,Gliwice
+Checked In,2018-10-29 09:50:02+01:00,"November 19, 2018 9:46 AM",No,,male,1.0,Corporate,Regular,Poland,Warsaw
+Checked In,2018-10-29 11:00:11+01:00,"November 19, 2018 9:34 AM",Yes,Unisex Small,female,1.0,Individual,Regular,Poland,Poznan
+Checked In,2018-10-29 12:03:29+01:00,"November 19, 2018 9:23 AM",Yes,Unisex Small,male,1.0,Individual,Regular,Poland,
+Checked In,2018-10-29 14:17:02+01:00,"November 19, 2018 9:18 AM",Yes,Unisex Medium,female,1.0,Corporate,Regular,Poland,Poznan
+Checked In,2018-10-29 14:25:17+01:00,"November 19, 2018 9:07 AM",Yes,Unisex Large,male,1.0,Corporate,Regular,Germany,Rahden
+Checked In,2018-10-29 19:58:48+01:00,"November 19, 2018 9:30 AM",Yes,Unisex XL,male,1.0,Individual,Regular,Poland,Warsaw
+Checked In,2018-10-29 20:57:58+01:00,"November 19, 2018 9:00 AM",Yes,Unisex X-Small,female,0.99,Individual,Regular,Poland,Katowice
+Checked In,2018-10-29 21:49:00+01:00,"November 19, 2018 9:38 AM",Yes,Unisex Large,male,1.0,Individual,Regular,Poland,Warsaw
+Checked In,2018-10-29 23:07:00+01:00,"November 19, 2018 9:33 AM",No,,male,1.0,Individual,Regular,Czech Republic,Prague
+Checked In,2018-10-30 00:21:46+01:00,"November 19, 2018 11:03 AM",Yes,Unisex Medium,male,1.0,Individual,Regular,Germany,Düsseldorf
+Checked In,2018-10-30 08:15:55+01:00,"November 19, 2018 11:09 AM",Yes,Unisex X-Small,male,1.0,Individual,Regular,Poland,Katowice
+Checked In,2018-10-30 10:57:33+01:00,"November 19, 2018 9:21 AM",Yes,Unisex Large,male,0.75,Individual,Regular,Italy,Bergamo
+Checked In,2018-10-30 10:58:11+01:00,"November 19, 2018 9:40 AM",Yes,Unisex Large,male,0.98,Individual,Regular,Poland,Warsaw
+Checked In,2018-10-30 11:03:39+01:00,"November 19, 2018 11:04 AM",Yes,Unisex Medium,female,0.83,Individual,Regular,Poland,Warsaw
+Checked In,2018-10-30 12:56:29+01:00,"November 19, 2018 9:20 AM",Yes,Unisex X-Small,female,1.0,Individual,Regular,Poland,Limanowa
+Not Attending,2018-10-30 13:45:22+01:00,,Yes,Unisex Small,female,1.0,Individual,Regular,Netherlands,Amsterdam
+Checked In,2018-10-30 15:01:42+01:00,"November 19, 2018 9:04 AM",Yes,Unisex Large,male,1.0,Corporate,Regular,Poland,Poznan
+Checked In,2018-10-30 15:08:22+01:00,"November 19, 2018 8:50 AM",No,,male,1.0,Individual,Regular,Poland,Białystok
+Checked In,2018-10-30 16:42:31+01:00,"November 19, 2018 9:44 AM",No,,female,1.0,Individual,Regular,Poland,Warsaw
+Checked In,2018-10-30 18:26:40+01:00,"November 19, 2018 9:40 AM",Yes,Unisex XXL,male,1.0,Individual,Regular,Poland,Otwock
+Checked In,2018-10-30 19:00:10+01:00,"November 19, 2018 9:00 AM",Yes,Unisex Medium,male,1.0,Individual,Regular,Poland,Ruda Śląska
+Checked In,2018-10-30 20:12:06+01:00,"November 19, 2018 10:06 AM",Yes,Unisex XL,male,1.0,Individual,Regular,Poland,Katowice
+Checked In,2018-10-30 20:12:56+01:00,"November 19, 2018 12:00 PM",Yes,Unisex Large,male,1.0,Corporate,Regular,Poland,Warsaw
+Checked In,2018-10-30 23:23:25+01:00,"November 19, 2018 9:07 AM",Yes,Unisex XL,male,1.0,Individual,Regular,Poland,Warsaw
+Checked In,2018-10-30 23:34:58+01:00,"November 19, 2018 9:57 AM",Yes,Unisex XL,male,0.98,Individual,Regular,Poland,Warsaw
+Checked In,2018-10-30 23:37:28+01:00,"November 19, 2018 9:41 AM",Yes,Unisex Large,male,1.0,Individual,Regular,Poland,Warsaw
+Checked In,2018-10-30 23:44:51+01:00,"November 19, 2018 11:28 AM",Yes,Unisex Large,male,1.0,Individual,Regular,Poland,Warsaw
+Checked In,2018-10-31 08:07:02+01:00,"November 19, 2018 9:30 AM",Yes,Unisex Small,male,1.0,Individual,Regular,Poland,Warsaw
+Checked In,2018-10-31 08:19:59+01:00,"November 19, 2018 9:16 AM",No,,male,1.0,Individual,Regular,Poland,Pietrowice Wielkie
+Checked In,2018-10-31 08:24:41+01:00,"November 19, 2018 11:10 AM",Yes,Unisex Medium | Unisex Large,male,1.0,Individual,Regular,Poland,Gliwice
+Checked In,2018-10-31 08:27:03+01:00,"November 19, 2018 10:13 AM",Yes,Unisex Small,male,0.99,Individual,Regular,Poland,Warsaw
+Checked In,2018-10-31 09:54:31+01:00,"November 19, 2018 1:20 PM",Yes,Unisex Small,male,1.0,Corporate,Regular,Poland,Warsaw
+Checked In,2018-10-31 10:17:59+01:00,"November 19, 2018 9:12 AM",,,male,1.0,Individual,Regular,Poland,Warsaw
+Checked In,2018-10-31 10:35:16+01:00,"November 19, 2018 9:04 AM",Yes,Unisex Medium,male,1.0,Corporate,Regular,Poland,Warsaw
+Checked In,2018-10-31 10:35:16+01:00,"November 19, 2018 9:05 AM",Yes,Unisex Medium,male,1.0,Corporate,Regular,Poland,Warsaw
+Checked In,2018-10-31 10:35:16+01:00,"November 19, 2018 9:24 AM",No,,male,1.0,Corporate,Regular,Poland,Warsaw
+Checked In,2018-10-31 11:25:37+01:00,"November 19, 2018 9:34 AM",No,,male,1.0,Individual,Regular,Poland,Warsaw
+Checked In,2018-10-31 11:27:33+01:00,"November 19, 2018 9:41 AM",Yes,Unisex X-Small | Unisex Small,female,1.0,Corporate,Regular,Poland,Warsaw
+Checked In,2018-10-31 11:32:22+01:00,"November 19, 2018 9:27 AM",Yes,Unisex Medium,male,1.0,Individual,Regular,Poland,Katowice
+Checked In,2018-10-31 12:02:04+01:00,"November 19, 2018 10:13 AM",Yes,Unisex Medium,,,Corporate,Regular,Poland,Wrocław
+Checked In,2018-10-31 12:06:12+01:00,"November 19, 2018 10:19 AM",Yes,Unisex Large,male,1.0,Individual,Regular,Spain,Alicante
+Checked In,2018-10-31 12:21:09+01:00,"November 19, 2018 9:58 AM",Yes,Unisex Large,male,1.0,Individual,Regular,Poland,Warsaw
+Checked In,2018-10-31 15:36:08+01:00,"November 19, 2018 9:41 AM",Yes,Unisex XL,male,1.0,Corporate,Regular,Poland,Warsaw
+Checked In,2018-10-31 15:36:08+01:00,"November 19, 2018 9:12 AM",Yes,Unisex Medium,male,1.0,Corporate,Regular,Poland,Warsaw
+Checked In,2018-10-31 15:36:08+01:00,"November 19, 2018 9:41 AM",,,male,1.0,Corporate,Regular,Poland,Warsaw
+Attending,2018-10-31 15:36:08+01:00,,Yes,Unisex Large,male,1.0,Corporate,Regular,Poland,Warsaw
+Checked In,2018-10-31 15:36:08+01:00,"November 19, 2018 9:53 AM",No,,male,1.0,Corporate,Regular,Poland,Warsaw
+Checked In,2018-10-31 15:36:08+01:00,"November 19, 2018 9:23 AM",No,,male,1.0,Corporate,Regular,Poland,Warsaw
+Checked In,2018-10-31 15:36:08+01:00,"November 19, 2018 11:51 AM",Yes,Unisex Large,male,1.0,Corporate,Regular,Poland,Warsaw
+Checked In,2018-10-31 16:14:41+01:00,"November 19, 2018 9:47 AM",Yes,Unisex Small | Unisex Large,female,0.99,Corporate,Regular,Unknown Location,
+Checked In,2018-10-31 20:31:41+01:00,"November 19, 2018 10:12 AM",Yes,Unisex Large,male,1.0,Individual,Regular,Poland,Szczecin
+Checked In,2018-10-31 21:35:23+01:00,"November 19, 2018 9:34 AM",No,,male,1.0,Individual,Regular,Poland,
+Checked In,2018-10-31 22:37:53+01:00,"November 19, 2018 9:47 AM",Yes,Unisex Small,male,0.98,Corporate,Regular,Poland,Częstochowa
+Checked In,2018-10-31 22:57:50+01:00,"November 19, 2018 10:17 AM",Yes,Unisex Small,female,1.0,Individual,Regular,Poland,Warsaw
+Checked In,2018-10-31 23:24:47+01:00,"November 19, 2018 10:21 AM",Yes,Unisex Small,male,0.98,Individual,Regular,Netherlands,Amsterdam
+Checked In,2018-11-01 06:23:48+01:00,"November 19, 2018 1:18 PM",Yes,Unisex Medium,male,1.0,Individual,Final Call,Seychelles,
+Checked In,2018-11-01 15:23:43+01:00,"November 19, 2018 9:58 AM",Yes,Unisex Large,male,1.0,Individual,Final Call,Poland,Warsaw
+Checked In,2018-11-01 23:47:42+01:00,"November 19, 2018 9:08 AM",Yes,Unisex Large,male,1.0,Individual,Final Call,Poland,Warsaw
+Checked In,2018-11-02 00:12:27+01:00,"November 19, 2018 9:18 AM",Yes,Unisex XL,male,1.0,Individual,Final Call,Poland,Warsaw
+Checked In,2018-11-02 06:19:28+01:00,"November 19, 2018 9:58 AM",Yes,Unisex Medium,male,1.0,Individual,Final Call,Russia,St Petersburg
+Checked In,2018-11-02 07:50:53+01:00,"November 19, 2018 10:39 AM",Yes,Unisex Medium,female,1.0,Individual,Final Call,Poland,Warsaw
+Checked In,2018-11-02 08:35:56+01:00,"November 19, 2018 10:49 AM",Yes,Unisex Medium,female,1.0,Individual,Final Call,United Kingdom,Rugby
+Checked In,2018-11-02 09:27:54+01:00,"November 19, 2018 10:38 AM",Yes | No,Unisex Medium,male,0.99,Individual,Final Call,Poland,Warsaw
+Checked In,2018-11-02 10:00:35+01:00,"November 22, 2018 9:50 PM",Yes,Unisex Large,male,0.99,Individual,Final Call,Poland,Warsaw
+Checked In,2018-11-02 13:06:52+01:00,"November 19, 2018 9:46 AM",Yes,Unisex Large,male,1.0,Individual,Final Call,Poland,Krakow
+Checked In,2018-11-02 22:20:26+01:00,"November 22, 2018 9:54 PM",Yes,Unisex Medium,male,1.0,Individual,Final Call,Poland,Katowice
+Checked In,2018-11-03 01:01:52+01:00,"November 19, 2018 11:45 AM",Yes,Unisex Large,male,1.0,Individual,Final Call,Poland,Bydgoszcz
+Checked In,2018-11-03 10:43:59+01:00,"November 19, 2018 9:59 AM",Yes,Unisex Large,male,1.0,Individual,Final Call,Germany,Munich
+Checked In,2018-11-03 13:16:48+01:00,"November 19, 2018 8:26 AM",Yes,Unisex XL,female,1.0,Individual,Final Call,Poland,Warsaw
+Attending,2018-11-03 14:15:30+01:00,,Yes,Unisex Medium,female,1.0,Individual,Final Call,Greece,Athens
+Checked In,2018-11-03 18:11:14+01:00,"November 19, 2018 9:42 AM",Yes,Unisex Small,female,0.99,Individual,Final Call,Poland,Warsaw
+Checked In,2018-11-03 19:48:38+01:00,"November 19, 2018 9:59 AM",Yes,Unisex Medium,female,0.99,Individual,Final Call,Poland,Warsaw
+Attending,2018-11-04 18:42:53+01:00,,Yes,Unisex Medium,female,0.99,Individual,Final Call,Greece,Athens
+Checked In,2018-11-04 18:54:42+01:00,"November 19, 2018 9:06 AM",Yes,Unisex Medium,female,1.0,Individual,Final Call,Greece,Athens
+Attending,2018-11-04 19:57:04+01:00,,Yes,Unisex Small,female,1.0,Individual,Final Call,Poland,Warsaw
+Checked In,2018-11-04 20:29:36+01:00,"November 19, 2018 9:25 AM",Yes,Unisex Large,female,1.0,Individual,Final Call,Poland,Warsaw
+Checked In,2018-11-04 20:48:14+01:00,"November 19, 2018 9:06 AM",Yes,Unisex Small,female,0.99,Individual,Final Call,Greece,Athens
+Checked In,2018-11-04 21:13:14+01:00,"November 19, 2018 10:01 AM",No,,male,0.99,Individual,Final Call,Poland,Warsaw
+Checked In,2018-11-05 14:13:44+01:00,"November 22, 2018 9:51 PM",Yes,Unisex Small,female,1.0,Individual,Final Call,Poland,Robercin
+Checked In,2018-11-05 14:49:57+01:00,"November 19, 2018 9:38 AM",Yes,Unisex XL,male,1.0,Corporate,Final Call,Poland,Warsaw
+Checked In,2018-11-06 12:27:20+01:00,"November 19, 2018 9:36 AM",Yes,Unisex Medium,male,1.0,Individual,Final Call,Poland,Warsaw
+Checked In,2018-11-06 13:24:59+01:00,"November 19, 2018 9:27 AM",Yes,Unisex Large,male,1.0,Corporate,Final Call,Poland,Warsaw
+Checked In,2018-11-06 14:45:18+01:00,"November 19, 2018 1:58 PM",,,male,1.0,Individual,Final Call,Poland,Warsaw
+Checked In,2018-11-06 15:12:34+01:00,"November 19, 2018 9:51 AM",Yes,Unisex Large,male,1.0,Corporate,Final Call,Poland,Warsaw
+Checked In,2018-11-06 18:56:59+01:00,"November 19, 2018 9:32 AM",No,,female,1.0,Individual,Final Call,Poland,Podkowa Leśna
+Checked In,2018-11-06 23:29:01+01:00,"November 19, 2018 9:23 AM",Yes,Unisex Medium,male,1.0,Corporate,Final Call,Poland,Warsaw
+Checked In,2018-11-06 23:29:01+01:00,"November 19, 2018 9:23 AM",Yes,Unisex Large,male,1.0,Corporate,Final Call,Poland,Warsaw
+Checked In,2018-11-07 10:08:14+01:00,"November 22, 2018 9:53 PM",Yes,Unisex Medium,female,1.0,Individual,Final Call,Poland,Warsaw
+Checked In,2018-11-07 10:21:41+01:00,"November 19, 2018 8:32 AM",Yes,Unisex XL,male,1.0,Individual,Final Call,Poland,Warsaw
+Checked In,2018-11-07 15:45:56+01:00,"November 19, 2018 9:20 AM",Yes,Unisex Large,male,1.0,Individual,Final Call,Poland,Warsaw
+Checked In,2018-11-07 15:48:42+01:00,"November 19, 2018 8:56 AM",Yes,Unisex Large,male,1.0,Individual,Final Call,Poland,Warsaw
+Checked In,2018-11-07 17:01:44+01:00,"November 19, 2018 10:04 AM",Yes,Unisex Large,male,1.0,Individual,Final Call,Poland,Warsaw
+Checked In,2018-11-07 18:49:14+01:00,"November 19, 2018 9:45 AM",Yes,Unisex Large,male,1.0,Individual,Final Call,Poland,Gdańsk
+Checked In,2018-11-07 21:26:37+01:00,"November 19, 2018 9:12 AM",Yes,Unisex Medium,female,1.0,Individual,Final Call,France,Montrabe
+Checked In,2018-11-08 10:56:49+01:00,"November 19, 2018 10:11 AM",Yes,Unisex Large,male,1.0,Corporate,Final Call,Poland,Wrocław
+Checked In,2018-11-08 12:01:59+01:00,"November 19, 2018 10:13 AM",Yes,Unisex Large,male,1.0,Corporate,Final Call,Denmark,Copenhagen
+Checked In,2018-11-08 12:01:59+01:00,"November 19, 2018 10:13 AM",Yes,Unisex XL,male,1.0,Corporate,Final Call,Denmark,Copenhagen
+Checked In,2018-11-08 12:01:59+01:00,"November 19, 2018 10:14 AM",Yes,Unisex Medium,female,1.0,Corporate,Final Call,Denmark,Copenhagen
+Checked In,2018-11-08 12:01:59+01:00,"November 19, 2018 10:15 AM",Yes,Unisex Large,male,1.0,Corporate,Final Call,Denmark,Copenhagen
+Checked In,2018-11-08 12:01:59+01:00,"November 19, 2018 10:13 AM",Yes,Unisex Small,female,1.0,Corporate,Final Call,Denmark,Copenhagen
+Checked In,2018-11-08 13:44:29+01:00,"November 19, 2018 9:11 AM",Yes,Unisex Medium,male,0.99,Corporate,Final Call,Poland,Warsaw
+Checked In,2018-11-08 13:44:29+01:00,"November 19, 2018 8:34 AM",Yes,Unisex XL,male,1.0,Corporate,Final Call,Poland,Warsaw
+Checked In,2018-11-08 13:44:29+01:00,"November 19, 2018 8:46 AM",Yes,Unisex XL,male,1.0,Corporate,Final Call,Poland,Warsaw
+Checked In,2018-11-08 13:44:29+01:00,"November 19, 2018 9:52 AM",Yes,Unisex XXL,male,1.0,Corporate,Final Call,Poland,Warsaw
+Checked In,2018-11-08 13:44:29+01:00,"November 19, 2018 8:47 AM",Yes,Unisex XL,,,Corporate,Final Call,Poland,Warsaw
+Checked In,2018-11-08 13:44:29+01:00,"November 19, 2018 9:24 AM",Yes,Unisex XL,male,1.0,Corporate,Final Call,Poland,Warsaw
+Checked In,2018-11-08 15:00:11+01:00,"November 19, 2018 8:53 AM",,,male,1.0,Corporate,Final Call,Poland,Warsaw
+Checked In,2018-11-08 15:00:11+01:00,"November 19, 2018 8:42 AM",,,male,1.0,Corporate,Final Call,Poland,Warsaw
+Checked In,2018-11-09 09:28:42+01:00,"November 19, 2018 9:29 AM",Yes,Unisex Medium,female,1.0,Individual,Final Call,Netherlands,Amsterdam
+Attending,2018-11-09 10:21:04+01:00,,Yes,Unisex Medium,male,0.98,Individual,Final Call,Poland,Warsaw
+Checked In,2018-11-09 10:21:04+01:00,"November 19, 2018 11:35 AM",Yes,Unisex Large,male,0.98,Individual,Final Call,Poland,Warsaw
+Checked In,2018-11-09 10:49:24+01:00,"November 19, 2018 9:37 AM",Yes,Unisex Large,male,1.0,Corporate,Final Call,Poland,Poznan
+Checked In,2018-11-09 10:50:07+01:00,"November 19, 2018 10:14 AM",Yes,Unisex Large,male,1.0,Corporate,Final Call,Italy,Milan
+Checked In,2018-11-09 11:40:03+01:00,"November 19, 2018 9:58 AM",Yes,Unisex Large,male,1.0,Corporate,Final Call,Poland,Warsaw
+Checked In,2018-11-09 11:44:49+01:00,"November 18, 2018 2:21 PM",Yes,Unisex Large,male,1.0,Individual,Final Call,Poland,Warsaw
+Checked In,2018-11-09 15:22:38+01:00,"November 19, 2018 9:15 AM",Yes,Unisex Medium,male,1.0,Corporate,Final Call,Poland,Warsaw
+Checked In,2018-11-09 15:59:37+01:00,"November 19, 2018 9:43 AM",No,,female,1.0,Individual,Final Call,France,Sartrouville
+Checked In,2018-11-09 17:07:47+01:00,"November 19, 2018 9:31 AM",No,,male,1.0,Individual,Final Call,Germany,Düsseldorf
+Checked In,2018-11-09 17:23:42+01:00,"November 19, 2018 1:49 PM",Yes,Unisex Large,male,1.0,Corporate,Final Call,Poland,Warsaw
+Checked In,2018-11-09 17:23:42+01:00,"November 19, 2018 8:40 AM",Yes,Unisex XXL,male,1.0,Corporate,Final Call,Poland,Warsaw
+Attending,2018-11-09 17:46:24+01:00,,Yes,Unisex Medium,male,1.0,Corporate,Final Call,Poland,Warsaw
+Checked In,2018-11-09 19:09:16+01:00,"November 22, 2018 9:53 PM",No,,male,1.0,Corporate,Final Call,Poland,Gmina Zakliczyn
+Checked In,2018-11-09 19:09:16+01:00,"November 19, 2018 9:13 AM",No,,male,1.0,Corporate,Final Call,Poland,Gmina Zakliczyn
+Checked In,2018-11-10 17:03:21+01:00,"November 19, 2018 8:49 AM",Yes,Unisex Medium,male,1.0,Individual,Final Call,Germany,Taufkirchen
+Checked In,2018-11-11 20:17:11+01:00,"November 19, 2018 12:02 PM",Yes,Unisex Large,male,1.0,Individual,Final Call,Poland,Rybnik
+Checked In,2018-11-12 10:00:57+01:00,"November 19, 2018 8:25 AM",Yes,,,,Individual,Final Call,Germany,Berlin
+Checked In,2018-11-12 11:30:44+01:00,"November 19, 2018 10:27 AM",Yes,Unisex Large,male,1.0,Individual,Final Call,Poland,Zabrze
+Checked In,2018-11-12 13:50:02+01:00,"November 19, 2018 12:41 PM",Yes,Unisex Medium,female,1.0,Individual,Final Call,Poland,Radom
+Checked In,2018-11-13 09:37:28+01:00,"November 19, 2018 10:16 AM",Yes,Unisex Large,male,1.0,Corporate,Final Call,Poland,Szczecin
+Checked In,2018-11-13 12:58:43+01:00,"November 19, 2018 8:43 AM",Yes,Unisex Small,male,1.0,Corporate,Regular,Poland,Wrocław
+Checked In,2018-11-13 13:15:45+01:00,"November 19, 2018 9:05 AM",Yes,Unisex XXL,male,1.0,Corporate,Regular,Czech Republic,Brno
+Checked In,2018-11-13 13:22:25+01:00,"November 19, 2018 9:15 AM",Yes,Unisex Medium,male,0.99,Corporate,Regular,Czech Republic,Brno
+Checked In,2018-11-14 12:18:00+01:00,"November 19, 2018 9:08 AM",Yes,Unisex Large,male,0.99,Corporate,Regular,Austria,Vienna
+Attending,2018-11-14 12:31:05+01:00,,Yes,Unisex Small,female,1.0,Corporate,Regular,Czech Republic,Brno
+Checked In,2018-11-14 19:55:24+01:00,"November 19, 2018 10:18 AM",Yes,Unisex Medium,male,0.98,Corporate,Regular,Poland,Warsaw
+Checked In,2018-11-15 15:08:06+01:00,"November 19, 2018 9:31 AM",Yes,Unisex Medium,male,1.0,Corporate,Regular,Poland,Warsaw
+Checked In,2018-11-15 15:14:43+01:00,"November 19, 2018 12:15 PM",Yes,Unisex Medium,female,0.99,Individual,Regular,Poland,Gdańsk
+Checked In,2018-11-15 15:41:47+01:00,"November 19, 2018 12:21 PM",Yes,Unisex Large,male,1.0,Corporate,Regular,Unknown Location,
+Checked In,2018-11-15 15:41:47+01:00,"November 19, 2018 9:00 AM",Yes,Unisex Large,female,1.0,Corporate,Regular,Unknown Location,
+Checked In,2018-11-16 20:09:36+01:00,"November 19, 2018 9:14 AM",Yes,Unisex Large,male,0.99,Corporate,Regular,Poland,Krakow
+Checked In,2018-11-16 20:09:36+01:00,"November 19, 2018 9:14 AM",Yes,Unisex Large,male,1.0,Corporate,Regular,Poland,Krakow
+Checked In,2018-11-16 20:09:36+01:00,"November 19, 2018 9:14 AM",Yes,Unisex Small,male,1.0,Corporate,Regular,Poland,Krakow
+Checked In,2018-11-16 20:09:36+01:00,"November 19, 2018 9:14 AM",Yes,Unisex Large,male,0.98,Corporate,Regular,Poland,Krakow
+Checked In,2018-11-17 06:23:44+01:00,"November 19, 2018 9:05 AM",Yes,Unisex Medium,,,Corporate,Regular,Czech Republic,Prague
+Attending,2018-11-17 12:01:27+01:00,,Yes,Unisex XL,male,1.0,Corporate,Regular,Poland,Warsaw
+Checked In,2018-11-17 14:27:37+01:00,"November 19, 2018 11:57 AM",No,,male,1.0,Corporate,Regular,Poland,Warsaw
+Checked In,2018-11-18 12:10:00+01:00,"November 22, 2018 9:52 PM",Yes,Unisex Large,male,1.0,Corporate,Regular,Poland,Warsaw
+Checked In,2018-11-18 16:31:41+01:00,"November 19, 2018 9:53 AM",No,,female,1.0,Corporate,Regular,Poland,Warsaw
