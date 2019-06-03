@@ -1,0 +1,376 @@
+Region,City,Cost of Living Index,Rent Index,Cost of Living Plus Rent Index,Groceries Index,Restaurant Price Index,Local Purchasing Power Index
+Africa,"Harare, Zimbabwe",59.36,13.57,37.28,53.64,42.28,27.69
+Africa,"Pretoria, South Africa",47.17,15.29,31.8,33.88,40.99,81.05
+Africa,"Johannesburg, South Africa",45.06,17,31.53,35.57,41.78,80.86
+Africa,"Nairobi, Kenya",43.68,13.76,29.25,39.25,35.57,25.99
+Africa,"Cape Town, South Africa",42.71,25.29,34.31,35.01,41.47,82.41
+Africa,"Port Elizabeth, South Africa",39.79,9.83,25.34,32.15,35.44,74.3
+Africa,"Durban, South Africa",38.66,13.74,26.65,30.64,37.08,85.02
+Africa,"Rabat, Morocco",37.99,13.15,26.01,32.78,26.34,43.81
+Africa,"Casablanca, Morocco",36.57,13.08,25.24,30.42,27.91,34.75
+Africa,"Lagos, Nigeria",35.42,30.32,32.96,34.73,27.33,16.16
+Africa,"Algiers, Algeria",32.11,7.73,20.36,32.34,20.81,32.04
+Africa,"Cairo, Egypt",30.43,6,18.65,26.17,26.08,24.59
+Africa,"Alexandria, Egypt",27.93,4.27,16.53,25.34,21.45,23.2
+Africa,"Tunis, Tunisia",25.92,5.65,16.15,23.95,15.5,37.48
+America,"New York, NY, United States",100,100,100,100,100,100
+America,"Anchorage, AK, United States",92.14,39.17,66.6,94.13,78.34,129.91
+America,"San Francisco, CA, United States",90.14,111.21,100.3,86.31,93.48,142.72
+America,"Honolulu, HI, United States",89.1,61.67,75.87,91.45,82.88,106.19
+America,"Boston, MA, United States",88.21,72.49,80.63,91.64,83.64,124.2
+America,"Brooklyn, NY, United States",88.11,79.74,84.07,82.5,94.07,86.22
+America,"Washington, DC, United States",87.68,73.59,80.89,89.72,88,140.84
+America,"Seattle, WA, United States",84.97,63.81,74.77,82.64,79.22,147.52
+America,"Philadelphia, PA, United States",83.28,46.77,65.68,84.89,74.54,101.32
+America,"San Jose, CA, United States",81.52,81.48,81.5,76.01,88.64,171
+America,"Toronto, Canada",81.32,48.24,65.37,81.12,75.68,85.79
+America,"Chicago, IL, United States",80.17,54.98,68.02,75.81,79.2,135.63
+America,"Charlotte, NC, United States",78.38,42.34,61,76.89,75.33,145.11
+America,"Los Angeles, CA, United States",78.09,69.9,74.14,72.42,83.84,118.33
+America,"Sacramento, CA, United States",77.74,44.76,61.84,72.71,70.01,130.19
+America,"Portland, OR, United States",77.52,48.5,63.53,74.37,72.57,130.42
+America,"Albany, NY, United States",76.61,32.03,55.12,71.18,83.47,106.96
+America,"Miami, FL, United States",76.47,58.22,67.67,70.44,82.47,94.92
+America,"Minneapolis, MN, United States",76.05,46.69,61.89,68.06,77.62,127.07
+America,"Baltimore, MD, United States",75.49,41.9,59.3,70.87,78.61,125.21
+America,"Denver, CO, United States",74.36,52.53,63.83,69.01,77.55,124.68
+America,"Pittsburgh, PA, United States",73.95,36.08,55.69,68.66,66.72,117.08
+America,"Raleigh, NC, United States",72.76,36.65,55.35,77.6,66.23,185.77
+America,"San Diego, CA, United States",72.62,63.58,68.26,65.45,74.45,142.86
+America,"Asheville, NC, United States",72.55,39.38,56.56,72.54,70.6,94.1
+America,"Buffalo, NY, United States",72.49,28.29,51.18,66.65,74.14,114.16
+America,"Atlanta, GA, United States",71.77,45.27,59,64.9,72.27,160.16
+America,"Tucson, AZ, United States",71.15,26,49.38,62.87,68.89,112.22
+America,"Milwaukee, WI, United States",70.66,35.13,53.53,65.69,75.09,99.87
+America,"Vancouver, Canada",70.33,48.66,59.88,70.18,66.9,97.02
+America,"Austin, TX, United States",69.81,48.06,59.33,66.65,76.83,159.4
+America,"Victoria, Canada",69.69,36.12,53.51,71.28,62.22,95.92
+America,"Orlando, FL, United States",69.69,40.8,55.76,65.21,73.53,106.44
+America,"Columbus, OH, United States",69.53,33.61,52.21,66.06,64.32,133.7
+America,"Halifax, Canada",69.44,26.12,48.56,72.1,58.91,94.62
+America,"Tampa, FL, United States",69.3,40.29,55.31,66.71,67.42,121.64
+America,"Kansas City, MO, United States",69.07,30.28,50.37,60.81,74.39,131.95
+America,"Las Vegas, NV, United States",68.81,31.92,51.02,61.89,72.91,144.78
+America,"Calgary, Canada",68.67,29.19,49.64,62.69,68.8,144.4
+America,"Edmonton, Canada",68.63,28.2,49.14,64.08,68.9,124.04
+America,"Nashville, TN, United States",67.94,47.05,57.87,59.56,79.94,143.89
+America,"Reno, NV, United States",67.69,37.52,53.14,65.98,65.88,122.23
+America,"Ottawa, Canada",67.48,29.84,49.33,61.12,67.75,136.57
+America,"Saint Louis, MO, United States",66.87,30.59,49.38,60.57,68.79,136.29
+America,"Dallas, TX, United States",66.7,45.1,56.28,59.52,70.83,192.47
+America,"Phoenix, AZ, United States",66.62,35.13,51.44,60.88,69.77,142.71
+America,"Indianapolis, IN, United States",66.62,31.59,49.73,62.92,65.13,116.15
+America,"San Antonio, TX, United States",66.61,33.86,50.82,65.16,61.12,136.42
+America,"Kelowna, Canada",65.59,32.51,49.64,61.31,60.74,108.67
+America,"Louisville, KY, United States",65.24,27.65,47.12,57.2,74.09,114.8
+America,"Houston, TX, United States",65.19,42.67,54.33,56.47,79.89,153.42
+America,"Memphis, TN, United States",64.36,25.76,45.75,54.91,69.59,130.77
+America,"Madison, WI, United States",64.34,37.61,51.45,57.65,66.8,137.24
+America,"Montreal, Canada",63.98,25.96,45.65,64.06,59.33,108.91
+America,"Salt Lake City, UT, United States",63.9,36.28,50.59,58.34,64.29,140.99
+America,"Winnipeg, Canada",60.07,23.07,42.23,53.68,58.07,109.71
+America,"San Jose, Costa Rica",59.79,18.14,39.71,56.24,49.84,47.18
+America,"Little Rock, AR, United States",59.41,25.72,43.17,52.35,64.38,135.52
+America,"London, Canada",56.74,23.27,40.6,47.26,59.56,118.49
+America,"Panama City, Panama",56.72,28.56,43.14,51.87,57.21,40.48
+America,"Montevideo, Uruguay",54.3,15.45,35.57,43.77,49.15,44.23
+America,"Santiago, Chile",49.78,16.17,33.57,41.62,50.37,53.18
+America,"Guayaquil, Ecuador",47.1,15.35,31.79,42.38,34.3,35.87
+America,"Sao Paulo, Brazil",45.74,16.56,31.67,33.76,43.41,42.66
+America,"Campinas, Brazil",45.51,11.29,29.01,33.65,39.13,39.8
+America,"Rio de Janeiro, Brazil",45.31,15.01,30.7,32.63,40.67,40.78
+America,"Quito, Ecuador",45.07,12.29,29.27,40.85,34.5,47.21
+America,"Santo Domingo, Dominican Republic",45.02,11.59,28.9,36.08,40.55,27.16
+America,"Brasilia, Brazil",45.01,13.83,29.98,31.51,41.52,59.49
+America,"Guatemala City, Guatemala",43.98,14.82,29.92,39.02,34.34,43.08
+America,"Recife, Brazil",41.74,8.25,25.59,32.34,33.1,25.58
+America,"Lima, Peru",41.23,14.15,28.18,35.87,30.81,36.16
+America,"Porto Alegre, Brazil",41.21,9.82,26.08,29.32,31.4,39.95
+America,"Belo Horizonte, Brazil",41.07,9.67,25.94,27.65,32.12,36.44
+America,"Curitiba, Brazil",39.72,9.04,24.92,26.69,32.74,39.49
+America,"Florianopolis, Brazil",39.2,11.14,25.67,28.13,35.62,34.68
+America,"Cancun, Mexico",37.23,12.75,25.43,32.27,35.11,45.01
+America,"Monterrey, Mexico",36.09,11.62,24.29,33,33.67,63.5
+America,"Mexico City, Mexico",36.07,16.59,26.68,32.31,31.72,51.72
+America,"Queretaro, Mexico",35.03,9.78,22.86,33.56,28.56,54.75
+America,"Buenos Aires, Argentina",34.97,9.96,22.91,28.36,33.51,52.79
+America,"Guadalajara, Mexico",33.67,10.09,22.3,31.63,29.57,47.93
+America,"Asuncion, Paraguay",32.65,9.81,21.64,26.27,26.82,35.1
+America,"Bogota, Colombia",31.54,11.39,21.82,24.35,24.43,31.38
+America,"Medellin, Colombia",28.83,8.68,19.11,24.7,22.33,35.17
+America,"Cali, Colombia",27.89,6.52,17.59,22.59,19.89,37.88
+America,"Caracas, Venezuela",26.45,7.59,17.36,28.22,22.28,2.96
+Asia,"Tokyo, Japan",90.13,38.19,65.09,89.05,59.06,101.15
+Asia,"Seoul, South Korea",83.14,26.83,55.99,98.8,47.81,90.8
+Asia,"Tel Aviv-Yafo, Israel",81.96,41.29,62.35,68.77,91.81,83.48
+Asia,"Hong Kong, Hong Kong",78.85,78.87,78.86,78.96,56.29,67.82
+Asia,"Jerusalem, Israel",78.18,31.12,55.49,62.61,87.91,80.52
+Asia,"Singapore, Singapore",77.64,60.18,69.22,64.95,54.67,92.31
+Asia,"Haifa, Israel",77.59,19.77,49.71,61.97,86.55,88.96
+Asia,"Ramat Gan, Israel",75.68,32.03,54.64,57.52,81.61,90.78
+Asia,"Dubai, United Arab Emirates",68.55,52.76,60.93,54.79,69.19,104.06
+Asia,"Abu Dhabi, United Arab Emirates",63.6,46.68,55.44,52.41,65.47,105.67
+Asia,"Nicosia, Cyprus",62.1,17.92,40.8,50.2,67.76,63.39
+Asia,"Beirut, Lebanon",61.67,28.7,45.77,45.69,58.88,47.68
+Asia,"Limassol, Cyprus",61.37,27.88,45.22,46.16,68.21,83.08
+Asia,"Doha, Qatar",60.75,48.38,54.79,50.02,63.51,121.06
+Asia,"Taipei, Taiwan",59.88,19.56,40.44,68.1,31.17,83.99
+Asia,"Manama, Bahrain",59.58,29.86,45.25,50.29,57.73,58.41
+Asia,"Al Khobar, Saudi Arabia",59.07,15.6,38.11,52.04,40.93,121.8
+Asia,"Amman, Jordan",57.47,12.46,35.77,45.72,53.91,36.66
+Asia,"Bangkok, Thailand",55.55,25.59,41.1,56.31,28.08,40.41
+Asia,"Sharjah, United Arab Emirates",52.86,25.22,39.53,39.03,40.48,100.43
+Asia,"Ajman, United Arab Emirates",51.54,33.38,42.79,41.23,39.45,64.26
+Asia,"Jeddah (Jiddah), Saudi Arabia",50.71,10.66,31.4,38.05,32.56,100.25
+Asia,"Shanghai, China",50.64,33.85,42.55,54.14,37.18,60.42
+Asia,"Riyadh, Saudi Arabia",49.99,12.13,31.74,39.16,38.35,104.38
+Asia,"Muscat, Oman",49.84,21.44,36.15,42.49,49.63,86.97
+Asia,"Ad Dammam, Saudi Arabia",49.53,12.27,31.56,39.42,34.15,124.27
+Asia,"Pattaya, Thailand",47.98,16.95,33.02,47.62,29.98,29.09
+Asia,"Phnom Penh, Cambodia",47.77,19.59,34.18,42.87,26.83,16.46
+Asia,"Chiang Mai, Thailand",47.07,12.55,30.43,49.86,21.42,38.99
+Asia,"Baghdad, Iraq",45.09,13.42,29.82,35.81,39.75,39.05
+Asia,"Beijing, China",44.91,35.58,40.41,42.23,37.06,63.43
+Asia,"Tehran, Iran",44.29,19.07,32.13,39.93,26.42,24.2
+Asia,"Irbil, Iraq",42.57,11.71,27.69,35.78,33.08,49.43
+Asia,"Jakarta, Indonesia",42.18,15.84,29.48,42.87,23.79,27.51
+Asia,"Kuala Lumpur, Malaysia",42.03,15.53,29.26,41.21,27.86,73.49
+Asia,"Guangzhou, China",41.66,17.64,30.08,42.87,26.57,69.47
+Asia,"Penang, Malaysia",41.15,7.87,25.1,44.13,22.73,80.15
+Asia,"Manila, Philippines",40.98,18.7,30.24,34.56,24.79,33.83
+Asia,"Shenzhen, China",40.82,23.7,32.56,39.02,31.68,78.86
+Asia,"Chengdu, China",40.02,10.22,25.65,43.65,26.63,72.69
+Asia,"Hanoi, Vietnam",39,11.35,25.67,37.57,19.89,31.77
+Asia,"Ho Chi Minh City, Vietnam",38.38,15.66,27.43,37.28,19.97,29.56
+Asia,"Cebu, Philippines",37.03,10.94,24.45,35.41,21.18,28.76
+Asia,"Istanbul, Turkey",36.61,9.7,23.64,30.93,27.71,42.78
+Asia,"Ulaanbaatar, Mongolia",35.39,10.35,23.32,32.84,23.84,29.96
+Asia,"Colombo, Sri Lanka",34.45,7.98,21.68,39.08,21.64,25.36
+Asia,"Dhaka, Bangladesh",34.26,5.72,20.5,30.94,20.21,40.43
+Asia,"Bursa, Turkey",33.67,5.26,19.97,30.33,21.16,45.96
+Asia,"Ankara, Turkey",33.53,5.8,20.16,29.16,23.12,47.16
+Asia,"Yerevan, Armenia",33.37,10.36,22.28,25.61,31.93,31.19
+Asia,"Izmir, Turkey",32.52,6.73,20.09,27.77,22.09,46.83
+Asia,"Kathmandu, Nepal",32.22,5.28,19.23,28.19,22.5,23.93
+Asia,"Astana, Kazakhstan",32.01,10.42,21.6,24.74,33.62,45.86
+Asia,"Gurgaon, India",31.33,9.89,20.99,28.81,25.68,103.84
+Asia,"Almaty, Kazakhstan",30.95,9.71,20.71,24.02,29.94,39.76
+Asia,"Baku, Azerbaijan",30.37,9.78,20.45,24.17,32.32,28.11
+Asia,"Antalya, Turkey",29.69,5.06,17.82,26.55,21.42,56.11
+Asia,"Mumbai, India",29.22,20.67,25.1,27.63,27.17,50.49
+Asia,"Bishkek, Kyrgyzstan",28.59,8.6,18.95,26.6,22.58,25.69
+Asia,"Tbilisi, Georgia",28.48,9.83,19.49,22.09,27.03,33.09
+Asia,"Bangalore, India",28.09,8.96,18.87,28.35,20.59,90.97
+Asia,"Noida, India",28.07,5.84,17.35,25.07,22.56,79.57
+Asia,"Delhi, India",27.79,8.12,18.31,25.81,23.63,62.05
+Asia,"Pune, India",27.69,7.44,17.92,27.73,22.86,73.56
+Asia,"Tashkent, Uzbekistan",26.57,7.54,17.39,22.82,20.14,28.26
+Asia,"Thane, India",26.56,9.2,18.19,25.42,22.58,69.71
+Asia,"Goa, India",26.33,6.17,16.61,27.4,23.23,52.1
+Asia,"Jaipur, India",25.87,5.18,15.9,24.92,18.34,67.64
+Asia,"Indore, India",25.54,4.2,15.25,25.72,15.88,48.3
+Asia,"Chennai, India",25.49,6.84,16.5,26.26,16,62.22
+Asia,"Chandigarh, India",25.26,5.44,15.7,24.59,18.13,56.91
+Asia,"Hyderabad, India",25.25,6.12,16.02,25.78,17.58,62.36
+Asia,"Ahmedabad, India",25.13,5.04,15.45,25.9,17.07,52.73
+Asia,"Kolkata, India",25.11,5.26,15.54,24.83,21.09,53.22
+Asia,"Surat, India",24.41,3.53,14.34,25.48,18.48,53.76
+Asia,"Navi Mumbai, India",24.2,7.08,15.95,23.72,18.78,116.71
+Asia,"Bhopal, India",24.2,3.28,14.11,23.06,16.4,57.75
+Asia,"Lucknow (Lakhnau), India",24.17,4.6,14.73,22.36,19.11,58.49
+Asia,"Coimbatore, India",24.02,4.95,14.82,25.46,15.03,50.99
+Asia,"Vadodara, India",24.01,3.87,14.3,24.21,16.3,68.51
+Asia,"Guwahati, India",23.73,3.97,14.2,25.54,13.48,58.13
+Asia,"Mangalore, India",23.73,4.71,14.56,24.36,19.42,68.11
+Asia,"Bhubaneswar, India",23.43,3.97,14.05,25.62,13.13,67.55
+Asia,"Mysore, India",23.24,4.57,14.24,25.45,15.16,53.09
+Asia,"Lahore, Pakistan",22.45,4.46,13.78,18.72,19.58,37.53
+Asia,"Islamabad, Pakistan",22.22,5.61,14.21,19.95,17.18,39.17
+Asia,"Kochi, India",21.79,5.01,13.7,22.63,11.79,62.23
+Asia,"Vijayawada, India",21.56,5.14,13.64,21.4,13.34,66.54
+Asia,"Karachi, Pakistan",21.33,4.77,13.35,19.09,17.56,33.86
+Asia,"Visakhapatnam, India",20.94,4.19,12.86,20.42,15.2,55.57
+Asia,"Thiruvananthapuram, India",20.38,4.34,12.65,21.66,10.78,64.41
+Asia,"Rawalpindi, Pakistan",18.4,3.67,11.3,15.36,16.14,38.49
+Europe,"Zurich, Switzerland",126.59,57.77,93.41,128.29,124.97,141.31
+Europe,"Lausanne, Switzerland",123.25,48.34,87.14,125.82,118.88,124.41
+Europe,"Geneva, Switzerland",122.37,67.71,96.02,120.72,121.87,120.21
+Europe,"Bern, Switzerland",117.17,37.47,78.74,113.46,112.38,146.17
+Europe,"Oslo, Norway",102.31,42.51,73.48,91.44,113.1,96.02
+Europe,"Stavanger, Norway",100.77,35.79,69.44,86.6,117.03,109.47
+Europe,"Trondheim, Norway",99.51,36.44,69.1,91.5,105,101.66
+Europe,"Reykjavik, Iceland",98.33,49.25,74.67,83.36,117.5,96.79
+Europe,"Bergen, Norway",97.7,35.51,67.72,84.97,108.28,109.34
+Europe,"Aalborg, Denmark",88.61,24.25,57.58,77.23,99.93,130.83
+Europe,"Luxembourg, Luxembourg",86.75,55.74,71.8,74.12,95.42,109.84
+Europe,"Copenhagen, Denmark",85.63,44.97,66.03,63.68,104.95,104.28
+Europe,"Arhus, Denmark",85.54,31.21,59.35,67.65,91.17,110.01
+Europe,"Paris, France",84.78,46.13,66.15,76.93,85.95,85.48
+Europe,"London, United Kingdom",81.72,69.04,75.61,58.31,85.6,83.56
+Europe,"Amsterdam, Netherlands",79.52,52.73,66.6,61.54,83.03,91.36
+Europe,"Dublin, Ireland",78.51,60.85,70,60.26,84.29,88.88
+Europe,"The Hague (Den Haag), Netherlands",76.58,35.3,56.68,59.17,83.51,97.87
+Europe,"Stockholm, Sweden",75.96,35.72,56.56,64.44,80.89,104.13
+Europe,"Cork, Ireland",75.33,38.67,57.66,61.01,80.38,96.31
+Europe,"Linz, Austria",75.3,25.11,51.1,65.92,79.07,93.64
+Europe,"Utrecht, Netherlands",75.23,34.11,55.41,58.97,81.89,96.11
+Europe,"Florence, Italy",74.94,28.61,52.6,63.89,80.36,65.07
+Europe,"Brussels, Belgium",74.59,30.04,53.12,64.2,82.94,102.81
+Europe,"Milan, Italy",74.21,38.62,57.05,62.04,80.57,65.99
+Europe,"Leiden, Netherlands",73.99,31.05,53.29,57.62,74.27,96.61
+Europe,"Eindhoven, Netherlands",73.9,32.47,53.93,58.09,80.49,120.27
+Europe,"Gent, Belgium",73.74,24.49,50,60.02,79.92,86.61
+Europe,"Helsinki, Finland",73.74,34.41,54.78,59.69,83.94,107.91
+Europe,"Delft, Netherlands",73.74,28.88,52.11,57.86,72.79,83.51
+Europe,"Uppsala, Sweden",73.62,24.11,49.75,67.62,71.77,99.39
+Europe,"Toulouse, France",73.59,21.62,48.54,67.03,71.62,106.04
+Europe,"Aberdeen, United Kingdom",73.3,25.48,50.25,54.84,89.58,102.02
+Europe,"Reading, United Kingdom",72.7,37.97,55.95,65.86,66.46,128.93
+Europe,"Munich, Germany",72.26,42.69,58,54.12,76.94,108.6
+Europe,"Antwerp, Belgium",72.15,24.74,49.29,57.51,81.59,95.82
+Europe,"Maastricht, Netherlands",72.1,30.61,52.1,58.97,73.07,100.39
+Europe,"Tampere, Finland",72.09,24,48.91,58.77,76.73,113.03
+Europe,"Galway, Ireland",71.55,34.53,53.7,59.16,70.74,95.05
+Europe,"Hamburg, Germany",71.28,33.29,52.96,53.46,66.65,118.51
+Europe,"Brighton, United Kingdom",71.08,41.25,56.7,51.24,83.89,82.02
+Europe,"Cambridge, United Kingdom",70.63,40.23,55.97,52.61,84.57,91.47
+Europe,"Genoa, Italy",70.62,18.13,45.31,57.86,75.56,79.83
+Europe,"Rotterdam, Netherlands",70.53,36.84,54.29,54.32,71.36,106.36
+Europe,"Rome, Italy",70.46,36.24,53.96,57.49,77.94,62.89
+Europe,"Oxford, United Kingdom",70.37,45.26,58.26,51.14,76.97,85.39
+Europe,"Frankfurt, Germany",70.33,34.25,52.93,51.9,66.78,114.77
+Europe,"Groningen, Netherlands",70.32,25.99,48.95,58,70.65,95.82
+Europe,"Lille, France",70.15,23.37,47.6,60.54,63.96,94.77
+Europe,"Heidelberg, Germany",70.03,26.18,48.89,53.34,71.58,105.29
+Europe,"Bristol, United Kingdom",69.92,34.43,52.81,52.73,84.13,103.2
+Europe,"Bologna, Italy",68.98,24.03,47.31,58.37,74.65,70.79
+Europe,"Dusseldorf, Germany",68.63,26.88,48.5,51.71,65.73,119.82
+Europe,"Edinburgh, United Kingdom",68.31,31.85,50.73,54.38,80.61,104.65
+Europe,"Vienna, Austria",68.28,32.35,50.95,63.25,65.19,94.51
+Europe,"Gothenburg, Sweden",68.27,29.33,49.5,60.49,72.55,109.38
+Europe,"Turin, Italy",68.19,20.11,45.01,56.43,71.35,76.76
+Europe,"Stuttgart, Germany",67.66,31.82,50.38,50.51,67.62,119.1
+Europe,"Newcastle upon Tyne, United Kingdom",67.64,23.15,46.19,55,68.48,96.8
+Europe,"Nuremberg, Germany",67.49,24.96,46.98,51.9,65.05,104.76
+Europe,"Mannheim, Germany",67.43,20.06,44.59,51.05,65.08,118.75
+Europe,"Manchester, United Kingdom",67.01,29.77,49.06,51.09,75.68,99.87
+Europe,"Bonn, Germany",66.81,27.91,48.05,50.6,61.37,114.78
+Europe,"Leicester, United Kingdom",66.33,22.02,44.97,50.78,70.19,102.43
+Europe,"Berlin, Germany",66.3,31.94,49.73,51.76,55.65,109.56
+Europe,"Bremen, Germany",66.19,22.18,44.98,51.48,64.97,108.05
+Europe,"Sliema, Malta",65.99,33.48,50.32,48.73,79.85,61.57
+Europe,"Cologne, Germany",65.69,27.37,47.22,50.45,64.88,118.05
+Europe,"Karlsruhe, Germany",65.18,23.58,45.13,51.47,58.9,139.2
+Europe,"Dundee, United Kingdom",64.88,22.54,44.47,53.55,75.42,100.21
+Europe,"Derby, United Kingdom",64.76,18.82,42.61,51.02,65.4,133.81
+Europe,"Birmingham, United Kingdom",64.55,29.17,47.49,49.58,76.67,99.69
+Europe,"Leipzig, Germany",64.32,19.7,42.81,49.52,55.65,80.95
+Europe,"Glasgow, United Kingdom",64.11,26.01,45.74,50.51,74.73,105.5
+Europe,"Dresden, Germany",63.86,22.81,44.07,50.41,55.97,116.68
+Europe,"Leeds, United Kingdom",63.53,26.35,45.61,50.13,71.35,120.37
+Europe,"Aachen, Germany",63.07,21.68,43.11,51.31,51.07,125.61
+Europe,"Hanover, Germany",63.06,22.79,43.64,50.37,61.28,136
+Europe,"Palma de Mallorca, Spain",62.82,27.61,45.85,50.26,65.26,68.25
+Europe,"Liverpool, United Kingdom",62.39,24.29,44.02,45.28,67.57,110.98
+Europe,"Sheffield, United Kingdom",61.96,22.65,43.01,53.29,65.96,106.89
+Europe,"Naples, Italy",60.33,18.65,40.24,51.82,54.42,65.45
+Europe,"Catania, Italy",60.29,12.69,37.34,47.68,60.81,70.72
+Europe,"Barcelona, Spain",60.25,32.79,47.01,45.12,61.56,74.97
+Europe,"Belfast, United Kingdom",59.64,23.42,42.17,49.78,71.03,102.79
+Europe,"Athens, Greece",59.35,13.54,37.26,44.92,62.62,49.79
+Europe,"Palermo, Italy",58.98,16.11,38.31,48.47,52.2,76.18
+Europe,"Kingston upon Hull, United Kingdom",58.82,17.42,38.86,43.6,67.49,97.84
+Europe,"Madrid, Spain",58.47,31.55,45.49,45.3,59.28,86.2
+Europe,"Thessaloniki, Greece",56.05,11.39,34.52,40.92,56.56,47.73
+Europe,"Ljubljana, Slovenia",55.32,19.4,38,44.62,48.03,71.29
+Europe,"Valencia, Spain",53.96,19.65,37.42,43.13,52.19,86.45
+Europe,"Seville (Sevilla), Spain",53.91,20.18,37.65,43.21,52.7,81.57
+Europe,"Lisbon, Portugal",53.38,32.02,43.08,41.98,48.24,51.74
+Europe,"Alicante, Spain",53.25,15.55,35.07,43.09,54.35,84.2
+Europe,"Tallinn, Estonia",52.44,16.93,35.32,36.38,57.28,77.93
+Europe,"Patras, Greece",52.26,8.49,31.16,38.26,46.84,50.16
+Europe,"Malaga, Spain",51.5,22.03,37.29,43.18,48.2,77.56
+Europe,"Porto, Portugal",51.17,23.61,37.88,41.1,44.63,51.32
+Europe,"Heraklion, Greece",51.02,11.25,31.85,39.71,47.08,57.38
+Europe,"Split, Croatia",50.53,12.83,32.35,40.65,48.03,50.29
+Europe,"Zagreb, Croatia",50.47,14.94,33.34,40.89,43.78,64.7
+Europe,"Tartu, Estonia",50.23,12.77,32.17,38.65,47.18,76.79
+Europe,"Rijeka, Croatia",49.65,10.7,30.87,41.26,40.88,53.37
+Europe,"Riga, Latvia",49.44,12.82,31.79,35.63,48.15,60.22
+Europe,"Santa Cruz de Tenerife, Spain",49.33,17.93,34.19,39.88,49.79,73.23
+Europe,"Coimbra, Portugal",48.71,14.84,32.38,39.34,40.62,63.22
+Europe,"Prague, Czech Republic",48.2,24.76,36.9,39.66,39.06,75.2
+Europe,"Bratislava, Slovakia",47.65,20.22,34.42,39.38,41.01,72.3
+Europe,"Vilnius, Lithuania",46.97,15.77,31.92,35.91,49.36,63.12
+Europe,"Osijek, Croatia",45.84,8.16,27.67,37.56,34.36,53.21
+Europe,"Kaunas, Lithuania",45.44,11.24,28.95,36.43,39.23,59.62
+Europe,"Brno, Czech Republic",44.95,18.19,32.04,37.34,34.6,73.94
+Europe,"Olomouc, Czech Republic",44.92,12.6,29.34,38.93,30.02,71.29
+Europe,"Kosice, Slovakia",44.87,14.91,30.43,36.5,34.26,56.74
+Europe,"Budapest, Hungary",44.45,16.66,31.05,34.4,38.39,59.41
+Europe,"Moscow, Russia",44.18,27.33,36.06,32.88,46.05,61.89
+Europe,"Warsaw, Poland",42.62,22.77,33.05,32.13,39.46,67.52
+Europe,"Ostrava, Czech Republic",41.66,10.36,26.57,36.79,29.05,75.15
+Europe,"Wroclaw, Poland",41.31,18.44,30.28,32.1,37.54,62.12
+Europe,"Gdansk, Poland",40.82,17.04,29.36,31.4,33.52,64.08
+Europe,"Sofia, Bulgaria",40.67,12.79,27.23,33.01,34.79,61.74
+Europe,"Krakow (Cracow), Poland",40.56,17.57,29.48,31.37,35.08,68.07
+Europe,"Debrecen, Hungary",39.97,11.19,26.09,30.24,39.05,51.64
+Europe,"Belgrade, Serbia",39.56,11.69,26.13,28.47,34.43,36.71
+Europe,"Bucharest, Romania",39.48,12.93,26.68,31.12,40.14,58.09
+Europe,"Podgorica, Montenegro",39.37,10.27,25.34,31.39,31.07,45.26
+Europe,"Poznan, Poland",39.18,14.32,27.2,29.87,32.79,63.98
+Europe,"Sarajevo, Bosnia And Herzegovina",39.03,9.47,24.78,30.68,27.28,44.23
+Europe,"Lodz, Poland",38.8,12.16,25.96,29.38,31.85,58.94
+Europe,"Saint Petersburg, Russia",38.71,16.76,28.13,30.04,38.55,52.34
+Europe,"Katowice, Poland",38.39,13.02,26.16,28.42,31.5,64.02
+Europe,"Szeged, Hungary",38.17,9.88,24.53,30.51,32.49,49.32
+Europe,"Constanta, Romania",38.11,7.4,23.31,29.63,37.89,47.25
+Europe,"Tirana, Albania",38.1,9.74,24.43,29.87,30.43,33.66
+Europe,"Szczecin, Poland",37.64,12.61,25.57,27.95,31.81,58.81
+Europe,"Varna, Bulgaria",37.64,8.5,23.59,32.17,32.17,47.36
+Europe,"Nizhny Novgorod, Russia",37.35,11.09,24.69,30.03,36.82,42.25
+Europe,"Cluj-Napoca, Romania",36.87,13.1,25.41,30.61,31.88,60.39
+Europe,"Brasov, Romania",36.59,10.04,23.79,30.11,31.4,58.67
+Europe,"Plovdiv, Bulgaria",36.46,7.88,22.68,30.38,29.25,50.83
+Europe,"Yekaterinburg, Russia",36.43,10.63,23.99,28.11,35.16,48.98
+Europe,"Banja Luka, Bosnia And Herzegovina",36.39,7.3,22.37,29.01,24.07,46.85
+Europe,"Lublin, Poland",36.02,13.59,25.21,28.31,28.76,63.9
+Europe,"Timisoara, Romania",35.86,10.44,23.6,29.82,31.71,52.55
+Europe,"Krasnoyarsk, Russia",35.85,8.65,22.74,32.51,34.65,45.06
+Europe,"Iasi, Romania",35.63,9.3,22.94,28.53,31.36,55.75
+Europe,"Samara, Russia",35.51,10.09,23.25,28.31,37.36,40.42
+Europe,"Kazan, Russia",35.18,10.1,23.09,29.29,37.48,42.88
+Europe,"Sibiu, Romania",35.17,8.89,22.5,29.93,29.73,55.62
+Europe,"Arad, Romania",35.15,7.02,21.59,31.68,24.69,50.1
+Europe,"Rostov-na-donu, Russia",35.09,9.13,22.57,28.41,34.22,45.58
+Europe,"Skopje, Macedonia",35.03,7.57,21.79,26.7,29.52,42.49
+Europe,"Kaliningrad, Russia",34.84,7.56,21.69,29.55,31.79,41.72
+Europe,"Novi Sad, Serbia",34.71,7.59,21.63,26.09,27.16,43.92
+Europe,"Novosibirsk, Russia",34.64,11.02,23.25,29.92,29.29,43.44
+Europe,"Chelyabinsk, Russia",34.46,7.46,21.44,29.55,28.06,43.54
+Europe,"Krasnodar, Russia",34.12,9.8,22.39,28.25,31.88,43.24
+Europe,"Voronezh, Russia",34.06,7.85,21.42,29.66,30.59,41.92
+Europe,"Minsk, Belarus",34.01,10.65,22.75,28.33,36.82,46.18
+Europe,"Oradea, Romania",33.95,7.4,21.15,28.14,27.39,49.64
+Europe,"Tomsk, Russia",33.65,7.7,21.14,28.39,29.2,47.69
+Europe,"Perm, Russia",33.11,9.13,21.55,27.07,33.2,43.67
+Europe,"Kiev, Ukraine",32.33,15.55,24.24,24.78,27.29,41.17
+Europe,"Craiova, Romania",32.32,7.29,20.25,27.44,25.96,53.92
+Europe,"Chisinau, Moldova",32.15,7.8,20.41,24.62,28.21,31.66
+Europe,"Odessa, Ukraine",30.8,9.92,20.74,24.15,25.59,33.63
+Europe,"Dnipro, Ukraine",29.28,8.03,19.03,22.46,24.4,35.15
+Europe,"Kharkiv, Ukraine",29.17,9.78,19.82,21.52,22.37,31.35
+Europe,"Lviv, Ukraine",28.64,10.32,19.8,22.83,21.69,34.13
+Europe,"Pristina, Kosovo (Disputed Territory)",26.64,8.56,17.92,23.84,20.5,62.91
+Oceania,"Sydney, Australia",78.8,56.08,67.85,69.71,72.51,116.25
+Oceania,"Auckland, New Zealand",76.14,39.56,58.5,66.37,72.93,93.88
+Oceania,"Perth, Australia",74.31,29.41,52.66,64.67,77.75,122.21
+Oceania,"Melbourne, Australia",72.41,42.43,57.96,66.1,69.18,116.7
+Oceania,"Christchurch, New Zealand",71.89,27.23,50.36,65.62,71.85,106.14
+Oceania,"Wellington, New Zealand",71.56,38.06,55.41,64.83,65.45,114.1
+Oceania,"Newcastle, Australia",71.37,34.35,53.52,64.56,78.81,152.92
+Oceania,"Brisbane, Australia",71.18,35.45,53.96,63.9,71.36,131.98
+Oceania,"Canberra, Australia",71.01,38.84,55.5,64.82,72.73,141.19
+Oceania,"Gold Coast, Australia",69.34,35.06,52.81,65.71,70.36,112.79
+Oceania,"Adelaide, Australia",67.24,27.78,48.22,62.62,67.1,130.71
